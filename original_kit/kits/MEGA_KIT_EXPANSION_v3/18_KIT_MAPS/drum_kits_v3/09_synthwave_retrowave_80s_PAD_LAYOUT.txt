@@ -1,0 +1,19 @@
+09_SYNTHWAVE_RETROWAVE_80S — Рекомендуемая 16-пэд раскладка (MEGA KIT v3)
+================================================================
+
+ 1. [MIDI 36] 80s Kick           01_KICKS/disco/kick_disco_01.wav
+ 2. [MIDI 37] Pop Kick           01_KICKS/modern_pop/kick_modern_pop_02.wav
+ 3. [MIDI 38] Gated Snare 1      02_SNARES/synthwave_gated/snare_synthwave_gated_03.wav
+ 4. [MIDI 39] Disco Clap         03_CLAPS/disco_layered/clap_disco_layered_01.wav
+ 5. [MIDI 40] Simmons Tom Hi     08_TOMS/simmons_80s/simmons_tom_hi_2.wav
+ 6. [MIDI 41] Hat Closed         05_HATS_CLOSED/postpunk/hat_postpunk_03.wav
+ 7. [MIDI 42] Hat Open 80s       06_HATS_OPEN/synthwave/openhat_synthwave_01.wav
+ 8. [MIDI 43] Simmons Tom Low    08_TOMS/simmons_80s/simmons_tom_hi_2.wav
+ 9. [MIDI 44] Moog Fat Bass      13_BASS/moog_fat_bass/moog_fat_bass_G1.wav
+10. [MIDI 45] Picked Bass        13_BASS/picked_rock_bass/picked_rock_bass_E1.wav
+11. [MIDI 46] Retro Poly 80      14_MELODIC/synths/retro_poly80/retro_poly80_F2.wav
+12. [MIDI 47] CS-80 Dark Pad     14_MELODIC/pads/pad_cs80_dark/pad_cs80_dark_Fs3.wav
+13. [MIDI 48] Alto Sax Solo      14_MELODIC/winds/alto_sax/alto_sax_E3.wav
+14. [MIDI 49] DX Bell            14_MELODIC/synths/dx_crystal_bell/dx_crystal_bell_F3.wav
+15. [MIDI 50] Synthwave Loop     16_LOOPS/drum_loops/synthwave_108bpm.wav
+16. [MIDI 51] Simmons Fill       19_FILLS_ROLLS/fill_synthwave_simmons_1bar_108bpm.wav

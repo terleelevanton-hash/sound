@@ -1,0 +1,19 @@
+19_REGGAETON_AFROBEATS — Рекомендуемая 16-пэд раскладка (MEGA KIT v3)
+================================================================
+
+ 1. [MIDI 36] Afro/Baile Kick    01_KICKS/baile_funk/kick_baile_funk_01.wav
+ 2. [MIDI 37] Warm Kick          01_KICKS/rnb_neosoul/kick_rnb_neosoul_02.wav
+ 3. [MIDI 38] Dembow Snare       02_SNARES/reggaeton_dembow/snare_reggaeton_dembow_03.wav
+ 4. [MIDI 39] Rim Snare          02_SNARES/rnb_rim_snare/snare_rnb_rim_snare_01.wav
+ 5. [MIDI 40] Cuica              09_PERC_ACOUSTIC/cuica/cuica_02.wav
+ 6. [MIDI 41] Closed Hat         05_HATS_CLOSED/baile_hat/hat_baile_hat_03.wav
+ 7. [MIDI 42] Open Hat           06_HATS_OPEN/rnb/openhat_rnb_01.wav
+ 8. [MIDI 43] Kalimba            14_MELODIC/mallets/kalimba_stereo/kalimba_stereo_F3.wav
+ 9. [MIDI 44] 808 Spinz          12_808_SUB/808_spinz_pro/808_spinz_D1.wav
+10. [MIDI 45] Moog Sub Bass      13_BASS/moog_fat_bass/moog_fat_bass_C1.wav
+11. [MIDI 46] Nylon Guitar       14_MELODIC/guitars/nylon_guitar/nylon_guitar_A2.wav
+12. [MIDI 47] Alto Sax           14_MELODIC/winds/alto_sax/alto_sax_C4.wav
+13. [MIDI 48] Pluggnb Bell       14_MELODIC/synths/pluggnb_bell/pluggnb_bell_C3.wav
+14. [MIDI 49] Dub Siren          15_FX/dub_sirens/dub_siren_02.wav
+15. [MIDI 50] Afrobeats Loop     16_LOOPS/drum_loops/afrobeats_104bpm.wav
+16. [MIDI 51] Dembow Fill        19_FILLS_ROLLS/fill_reggaeton_dembow_1bar_100bpm.wav

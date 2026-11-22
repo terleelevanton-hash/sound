@@ -1,0 +1,10 @@
+// MEGA KIT v3 - jazz_tuned (4 multi-sampled root zones)
+// Full keyboard range A0..C8 (MIDI 21..108), non-overlapping zones, verified paths
+<global>
+ampeg_release=0.35
+amp_veltrack=82
+
+<region> sample=../../08_TOMS/jazz_tuned/jazz_tom_A1.wav pitch_keycenter=33 lokey=21 hikey=35 lovel=1 hivel=127
+<region> sample=../../08_TOMS/jazz_tuned/jazz_tom_D2.wav pitch_keycenter=38 lokey=36 hikey=40 lovel=1 hivel=127
+<region> sample=../../08_TOMS/jazz_tuned/jazz_tom_G2.wav pitch_keycenter=43 lokey=41 hikey=45 lovel=1 hivel=127
+<region> sample=../../08_TOMS/jazz_tuned/jazz_tom_C3.wav pitch_keycenter=48 lokey=46 hikey=108 lovel=1 hivel=127

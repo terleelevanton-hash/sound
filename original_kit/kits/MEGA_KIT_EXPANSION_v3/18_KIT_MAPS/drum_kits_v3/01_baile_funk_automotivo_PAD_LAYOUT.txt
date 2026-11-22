@@ -1,0 +1,19 @@
+01_BAILE_FUNK_AUTOMOTIVO — Рекомендуемая 16-пэд раскладка (MEGA KIT v3)
+================================================================
+
+ 1. [MIDI 36] Kick 1             01_KICKS/baile_funk/kick_baile_funk_01.wav
+ 2. [MIDI 37] Kick 2             01_KICKS/modern_pop/kick_modern_pop_02.wav
+ 3. [MIDI 38] Snare              02_SNARES/baile_funk/snare_baile_funk_03.wav
+ 4. [MIDI 39] Clap               03_CLAPS/baile_clap/clap_baile_clap_01.wav
+ 5. [MIDI 40] Cuica Hi           09_PERC_ACOUSTIC/cuica/cuica_02.wav
+ 6. [MIDI 41] Hat Closed         05_HATS_CLOSED/baile_hat/hat_baile_hat_03.wav
+ 7. [MIDI 42] Hat Open           06_HATS_OPEN/disco_sizzle/openhat_disco_sizzle_01.wav
+ 8. [MIDI 43] Automotivo Stab    10_PERC_ELECTRONIC/automotivo_stab/automotivo_stab_Ds3.wav
+ 9. [MIDI 44] 808 Spinz          12_808_SUB/808_spinz_pro/808_spinz_D1.wav
+10. [MIDI 45] 808 Opium          12_808_SUB/808_opium_buzz/808_opium_C1.wav
+11. [MIDI 46] Cowbell C5         09_PERC_ACOUSTIC/drift_cowbell_tuned/cowbell_808_Cs4.wav
+12. [MIDI 47] FX Siren           15_FX/dub_sirens/dub_siren_03.wav
+13. [MIDI 48] Brass Stab         14_MELODIC/brass/funk_brass_section/funk_brass_section_C3.wav
+14. [MIDI 49] Rage Lead          14_MELODIC/synths/rage_lead/rage_lead_F3.wav
+15. [MIDI 50] Drum Loop          16_LOOPS/drum_loops/baile_funk_130bpm.wav
+16. [MIDI 51] Fill               19_FILLS_ROLLS/fill_baile_tamborzao_1bar_130bpm.wav

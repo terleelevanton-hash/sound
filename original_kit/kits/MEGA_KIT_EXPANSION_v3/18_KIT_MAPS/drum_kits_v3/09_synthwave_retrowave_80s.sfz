@@ -1,0 +1,22 @@
+// MEGA KIT v3 - 09_SYNTHWAVE_RETROWAVE_80S 16-Pad Producer Kit
+// Mapped to MIDI notes 36..51 (C2..D#3 standard MPC / FL FPC / Ableton Drum Rack)
+<global>
+ampeg_release=0.80
+amp_veltrack=85
+
+<region> sample=../../01_KICKS/disco/kick_disco_01.wav key=36 lovel=1 hivel=127
+<region> sample=../../01_KICKS/modern_pop/kick_modern_pop_02.wav key=37 lovel=1 hivel=127
+<region> sample=../../02_SNARES/synthwave_gated/snare_synthwave_gated_03.wav key=38 lovel=1 hivel=127
+<region> sample=../../03_CLAPS/disco_layered/clap_disco_layered_01.wav key=39 lovel=1 hivel=127
+<region> sample=../../08_TOMS/simmons_80s/simmons_tom_hi_2.wav key=40 lovel=1 hivel=127
+<region> sample=../../05_HATS_CLOSED/postpunk/hat_postpunk_03.wav key=41 lovel=1 hivel=127 group=1 off_by=1
+<region> sample=../../06_HATS_OPEN/synthwave/openhat_synthwave_01.wav key=42 lovel=1 hivel=127 group=1 off_by=1
+<region> sample=../../08_TOMS/simmons_80s/simmons_tom_hi_2.wav key=43 lovel=1 hivel=127
+<region> sample=../../13_BASS/moog_fat_bass/moog_fat_bass_G1.wav key=44 lovel=1 hivel=127
+<region> sample=../../13_BASS/picked_rock_bass/picked_rock_bass_E1.wav key=45 lovel=1 hivel=127
+<region> sample=../../14_MELODIC/synths/retro_poly80/retro_poly80_F2.wav key=46 lovel=1 hivel=127
+<region> sample=../../14_MELODIC/pads/pad_cs80_dark/pad_cs80_dark_Fs3.wav key=47 lovel=1 hivel=127
+<region> sample=../../14_MELODIC/winds/alto_sax/alto_sax_E3.wav key=48 lovel=1 hivel=127
+<region> sample=../../14_MELODIC/synths/dx_crystal_bell/dx_crystal_bell_F3.wav key=49 lovel=1 hivel=127
+<region> sample=../../16_LOOPS/drum_loops/synthwave_108bpm.wav key=50 lovel=1 hivel=127
+<region> sample=../../19_FILLS_ROLLS/fill_synthwave_simmons_1bar_108bpm.wav key=51 lovel=1 hivel=127

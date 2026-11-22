@@ -1,0 +1,19 @@
+18_WESTCOAST_GFUNK_HIPHOP — Рекомендуемая 16-пэд раскладка (MEGA KIT v3)
+================================================================
+
+ 1. [MIDI 36] Punch Kick         01_KICKS/rnb_neosoul/kick_rnb_neosoul_01.wav
+ 2. [MIDI 37] Disco Kick         01_KICKS/disco/kick_disco_02.wav
+ 3. [MIDI 38] Funk Snare         02_SNARES/disco_funk/snare_disco_funk_03.wav
+ 4. [MIDI 39] Layered Clap       03_CLAPS/disco_layered/clap_disco_layered_01.wav
+ 5. [MIDI 40] Rim Snare          02_SNARES/rnb_rim_snare/snare_rnb_rim_snare_02.wav
+ 6. [MIDI 41] Tight Hat          05_HATS_CLOSED/rnb_tight/hat_rnb_tight_03.wav
+ 7. [MIDI 42] Open Hat           06_HATS_OPEN/disco_sizzle/openhat_disco_sizzle_01.wav
+ 8. [MIDI 43] Cowbell            09_PERC_ACOUSTIC/drift_cowbell_tuned/cowbell_808_Cs4.wav
+ 9. [MIDI 44] Moog Fat Bass      13_BASS/moog_fat_bass/moog_fat_bass_G1.wav
+10. [MIDI 45] Slap Bass          13_BASS/slap_bass/slap_bass_E1.wav
+11. [MIDI 46] G-Funk Whistle     14_MELODIC/synths/gfunk_whistle_lead/gfunk_whistle_lead_E4.wav
+12. [MIDI 47] Wurli EP           14_MELODIC/keys/wurli_ep/wurli_ep_C3.wav
+13. [MIDI 48] Clavinet           14_MELODIC/keys/clavinet/clavinet_C2.wav
+14. [MIDI 49] Funk Wah Guitar    14_MELODIC/guitars/funk_wah_guitar/funk_wah_guitar_A2.wav
+15. [MIDI 50] Brass Section      14_MELODIC/brass/funk_brass_section/funk_brass_section_As3.wav
+16. [MIDI 51] Tape Stop          15_FX/tape_stops/tape_stop_01.wav

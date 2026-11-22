@@ -1,0 +1,22 @@
+// MEGA KIT v3 - 04_RAGE_OPIUM_YEAT 16-Pad Producer Kit
+// Mapped to MIDI notes 36..51 (C2..D#3 standard MPC / FL FPC / Ableton Drum Rack)
+<global>
+ampeg_release=0.80
+amp_veltrack=85
+
+<region> sample=../../01_KICKS/modern_pop/kick_modern_pop_01.wav key=36 lovel=1 hivel=127
+<region> sample=../../01_KICKS/gabber_hardcore/kick_gabber_02.wav key=37 lovel=1 hivel=127
+<region> sample=../../02_SNARES/modern_pop/snare_modern_pop_03.wav key=38 lovel=1 hivel=127
+<region> sample=../../03_CLAPS/modern_pop/clap_modern_pop_01.wav key=39 lovel=1 hivel=127
+<region> sample=../../20_TONAL_PERC/church_bell/church_bell_E3.wav key=40 lovel=1 hivel=127
+<region> sample=../../05_HATS_CLOSED/rnb_tight/hat_rnb_tight_03.wav key=41 lovel=1 hivel=127 group=1 off_by=1
+<region> sample=../../06_HATS_OPEN/synthwave/openhat_synthwave_01.wav key=42 lovel=1 hivel=127 group=1 off_by=1
+<region> sample=../../15_FX/cyber_risers/cyber_riser_2bar_128bpm.wav key=43 lovel=1 hivel=127
+<region> sample=../../12_808_SUB/808_opium_buzz/808_opium_D1.wav key=44 lovel=1 hivel=127
+<region> sample=../../12_808_SUB/808_spinz_pro/808_spinz_C1.wav key=45 lovel=1 hivel=127
+<region> sample=../../14_MELODIC/synths/rage_lead/rage_lead_F3.wav key=46 lovel=1 hivel=127
+<region> sample=../../14_MELODIC/synths/hyperpop_lead/hyperpop_lead_As3.wav key=47 lovel=1 hivel=127
+<region> sample=../../14_MELODIC/keys/pipe_organ/pipe_organ_C2.wav key=48 lovel=1 hivel=127
+<region> sample=../../16_LOOPS/melodic_loops/rage_synths_152bpm_Fm.wav key=49 lovel=1 hivel=127
+<region> sample=../../16_LOOPS/drum_loops/rage_opium_152bpm.wav key=50 lovel=1 hivel=127
+<region> sample=../../15_FX/sub_drops/sub_drop_01.wav key=51 lovel=1 hivel=127

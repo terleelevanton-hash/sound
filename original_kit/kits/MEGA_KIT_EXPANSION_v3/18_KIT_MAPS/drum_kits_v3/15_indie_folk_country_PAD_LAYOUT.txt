@@ -1,0 +1,19 @@
+15_INDIE_FOLK_COUNTRY — Рекомендуемая 16-пэд раскладка (MEGA KIT v3)
+================================================================
+
+ 1. [MIDI 36] Warm Kick          01_KICKS/jazz/kick_jazz_01.wav
+ 2. [MIDI 37] Disco Kick         01_KICKS/disco/kick_disco_02.wav
+ 3. [MIDI 38] Brush Tap          02_SNARES/jazz_brush_tap/brush_tap_03.wav
+ 4. [MIDI 39] Finger Clap        03_CLAPS/rnb_finger_clap/clap_rnb_finger_clap_01.wav
+ 5. [MIDI 40] Rim Snare          02_SNARES/rnb_rim_snare/snare_rnb_rim_snare_02.wav
+ 6. [MIDI 41] Foot Hat           05_HATS_CLOSED/jazz_foot_chick/hat_jazz_foot_chick_03.wav
+ 7. [MIDI 42] Sizzle Ride        07_CYMBALS/jazz_sizzle_ride/jazz_ride_01.wav
+ 8. [MIDI 43] Jazz Tom           08_TOMS/jazz_tuned/jazz_tom_G2.wav
+ 9. [MIDI 44] Upright Bass       13_BASS/upright_double_bass/upright_double_bass_D1.wav
+10. [MIDI 45] Picked Bass        13_BASS/picked_rock_bass/picked_rock_bass_E1.wav
+11. [MIDI 46] Steel Acoustic     14_MELODIC/guitars/steel_acoustic/steel_acoustic_A2.wav
+12. [MIDI 47] Strum Major        14_MELODIC/chords_stabs/acoustic_strum_major/strum_maj_D3.wav
+13. [MIDI 48] Mandolin           14_MELODIC/world/mandolin/mandolin_G3.wav
+14. [MIDI 49] Ukulele            14_MELODIC/world/ukulele/ukulele_Ds4.wav
+15. [MIDI 50] Felt Upright       14_MELODIC/keys/felt_upright/felt_upright_C3.wav
+16. [MIDI 51] Mellotron Flute    14_MELODIC/keys/mellotron_flute/mellotron_flute_C3.wav

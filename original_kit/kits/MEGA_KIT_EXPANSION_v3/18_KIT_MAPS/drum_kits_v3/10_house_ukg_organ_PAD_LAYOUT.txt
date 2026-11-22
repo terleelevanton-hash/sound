@@ -1,0 +1,19 @@
+10_HOUSE_UKG_ORGAN — Рекомендуемая 16-пэд раскладка (MEGA KIT v3)
+================================================================
+
+ 1. [MIDI 36] House Kick         01_KICKS/disco/kick_disco_01.wav
+ 2. [MIDI 37] Pop Kick           01_KICKS/modern_pop/kick_modern_pop_02.wav
+ 3. [MIDI 38] House Snare        02_SNARES/house/snare_house_03.wav
+ 4. [MIDI 39] House Clap         03_CLAPS/disco_layered/clap_disco_layered_01.wav
+ 5. [MIDI 40] Rim Snare          02_SNARES/rnb_rim_snare/snare_rnb_rim_snare_02.wav
+ 6. [MIDI 41] Crisp Hat          05_HATS_CLOSED/disco_crisp/hat_disco_crisp_03.wav
+ 7. [MIDI 42] Open Hat           06_HATS_OPEN/disco_sizzle/openhat_disco_sizzle_01.wav
+ 8. [MIDI 43] Ride Bell          07_CYMBALS/jazz_ride_bell/ride_bell_02.wav
+ 9. [MIDI 44] M1 Organ Bass      13_BASS/donk_organ_bass/donk_organ_bass_G1.wav
+10. [MIDI 45] Moog Bass          13_BASS/moog_fat_bass/moog_fat_bass_C1.wav
+11. [MIDI 46] House Organ Stab   14_MELODIC/chords_stabs/house_organ_chord/house_min7_Cs3.wav
+12. [MIDI 47] Dub Techno Chord   14_MELODIC/chords_stabs/dub_techno_chord/dub_chord_D3.wav
+13. [MIDI 48] Concert Grand      14_MELODIC/keys/concert_grand/concert_grand_C2.wav
+14. [MIDI 49] Tenor Sax          14_MELODIC/winds/tenor_sax/tenor_sax_D3.wav
+15. [MIDI 50] Organ Bass Loop    16_LOOPS/melodic_loops/house_organ_bass_126bpm_Cm.wav
+16. [MIDI 51] EDM Buildup        19_FILLS_ROLLS/fill_edm_snare_buildup_2bar_128bpm.wav

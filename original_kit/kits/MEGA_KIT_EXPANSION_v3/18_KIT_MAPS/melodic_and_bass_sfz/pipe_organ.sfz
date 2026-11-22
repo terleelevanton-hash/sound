@@ -1,0 +1,14 @@
+// MEGA KIT v3 - pipe_organ (8 multi-sampled root zones)
+// Full keyboard range A0..C8 (MIDI 21..108), non-overlapping zones, verified paths
+<global>
+ampeg_release=0.35
+amp_veltrack=82
+
+<region> sample=../../14_MELODIC/keys/pipe_organ/pipe_organ_C2.wav pitch_keycenter=36 lokey=21 hikey=38 lovel=1 hivel=127
+<region> sample=../../14_MELODIC/keys/pipe_organ/pipe_organ_F2.wav pitch_keycenter=41 lokey=39 hikey=43 lovel=1 hivel=127
+<region> sample=../../14_MELODIC/keys/pipe_organ/pipe_organ_As2.wav pitch_keycenter=46 lokey=44 hikey=48 lovel=1 hivel=127
+<region> sample=../../14_MELODIC/keys/pipe_organ/pipe_organ_Ds3.wav pitch_keycenter=51 lokey=49 hikey=53 lovel=1 hivel=127
+<region> sample=../../14_MELODIC/keys/pipe_organ/pipe_organ_Gs3.wav pitch_keycenter=56 lokey=54 hikey=58 lovel=1 hivel=127
+<region> sample=../../14_MELODIC/keys/pipe_organ/pipe_organ_Cs4.wav pitch_keycenter=61 lokey=59 hikey=63 lovel=1 hivel=127
+<region> sample=../../14_MELODIC/keys/pipe_organ/pipe_organ_Fs4.wav pitch_keycenter=66 lokey=64 hikey=69 lovel=1 hivel=127
+<region> sample=../../14_MELODIC/keys/pipe_organ/pipe_organ_C5.wav pitch_keycenter=72 lokey=70 hikey=108 lovel=1 hivel=127

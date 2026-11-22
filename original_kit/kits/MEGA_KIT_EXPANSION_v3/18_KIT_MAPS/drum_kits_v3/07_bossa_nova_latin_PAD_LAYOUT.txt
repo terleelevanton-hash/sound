@@ -1,0 +1,19 @@
+07_BOSSA_NOVA_LATIN — Рекомендуемая 16-пэд раскладка (MEGA KIT v3)
+================================================================
+
+ 1. [MIDI 36] Warm Kick          01_KICKS/jazz/kick_jazz_01.wav
+ 2. [MIDI 37] Reggaeton Snare    02_SNARES/reggaeton_dembow/snare_reggaeton_dembow_02.wav
+ 3. [MIDI 38] Rim Snare          02_SNARES/rnb_rim_snare/snare_rnb_rim_snare_03.wav
+ 4. [MIDI 39] Brush Sweep        02_SNARES/jazz_brush_sweep/brush_sweep_01.wav
+ 5. [MIDI 40] Cuica              09_PERC_ACOUSTIC/cuica/cuica_02.wav
+ 6. [MIDI 41] Closed Hat         05_HATS_CLOSED/jazz_foot_chick/hat_jazz_foot_chick_03.wav
+ 7. [MIDI 42] Sizzle Ride        07_CYMBALS/jazz_sizzle_ride/jazz_ride_01.wav
+ 8. [MIDI 43] Mellotron Flute    14_MELODIC/keys/mellotron_flute/mellotron_flute_F3.wav
+ 9. [MIDI 44] Upright Bass       13_BASS/upright_double_bass/upright_double_bass_D1.wav
+10. [MIDI 45] Nylon Guitar       14_MELODIC/guitars/nylon_guitar/nylon_guitar_E2.wav
+11. [MIDI 46] Guitar Strum Min   14_MELODIC/chords_stabs/acoustic_strum_minor/strum_min_Cs3.wav
+12. [MIDI 47] Guitar Strum Maj   14_MELODIC/chords_stabs/acoustic_strum_major/strum_maj_D3.wav
+13. [MIDI 48] Alto Sax           14_MELODIC/winds/alto_sax/alto_sax_E3.wav
+14. [MIDI 49] Wurli EP           14_MELODIC/keys/wurli_ep/wurli_ep_Fs2.wav
+15. [MIDI 50] Bossa Loop         16_LOOPS/drum_loops/bossa_nova_116bpm.wav
+16. [MIDI 51] Nylon Loop         16_LOOPS/melodic_loops/bossa_nylon_chords_116bpm_Gm.wav

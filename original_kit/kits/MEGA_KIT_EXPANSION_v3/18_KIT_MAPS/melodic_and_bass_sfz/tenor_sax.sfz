@@ -1,0 +1,15 @@
+// MEGA KIT v3 - tenor_sax (9 multi-sampled root zones)
+// Full keyboard range A0..C8 (MIDI 21..108), non-overlapping zones, verified paths
+<global>
+ampeg_release=0.35
+amp_veltrack=82
+
+<region> sample=../../14_MELODIC/winds/tenor_sax/tenor_sax_As2.wav pitch_keycenter=46 lokey=21 hikey=48 lovel=1 hivel=127
+<region> sample=../../14_MELODIC/winds/tenor_sax/tenor_sax_D3.wav pitch_keycenter=50 lokey=49 hikey=52 lovel=1 hivel=127
+<region> sample=../../14_MELODIC/winds/tenor_sax/tenor_sax_Fs3.wav pitch_keycenter=54 lokey=53 hikey=56 lovel=1 hivel=127
+<region> sample=../../14_MELODIC/winds/tenor_sax/tenor_sax_As3.wav pitch_keycenter=58 lokey=57 hikey=60 lovel=1 hivel=127
+<region> sample=../../14_MELODIC/winds/tenor_sax/tenor_sax_D4.wav pitch_keycenter=62 lokey=61 hikey=64 lovel=1 hivel=127
+<region> sample=../../14_MELODIC/winds/tenor_sax/tenor_sax_Fs4.wav pitch_keycenter=66 lokey=65 hikey=68 lovel=1 hivel=127
+<region> sample=../../14_MELODIC/winds/tenor_sax/tenor_sax_As4.wav pitch_keycenter=70 lokey=69 hikey=72 lovel=1 hivel=127
+<region> sample=../../14_MELODIC/winds/tenor_sax/tenor_sax_D5.wav pitch_keycenter=74 lokey=73 hikey=76 lovel=1 hivel=127
+<region> sample=../../14_MELODIC/winds/tenor_sax/tenor_sax_Fs5.wav pitch_keycenter=78 lokey=77 hikey=108 lovel=1 hivel=127

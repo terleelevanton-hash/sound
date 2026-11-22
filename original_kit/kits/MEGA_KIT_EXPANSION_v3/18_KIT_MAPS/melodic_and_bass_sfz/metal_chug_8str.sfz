@@ -1,0 +1,14 @@
+// MEGA KIT v3 - metal_chug_8str (8 multi-sampled root zones)
+// Full keyboard range A0..C8 (MIDI 21..108), non-overlapping zones, verified paths
+<global>
+ampeg_release=0.35
+amp_veltrack=82
+
+<region> sample=../../14_MELODIC/guitars/metal_chug_8str/metal_chug_8str_Fs1.wav pitch_keycenter=30 lokey=21 hikey=32 lovel=1 hivel=127
+<region> sample=../../14_MELODIC/guitars/metal_chug_8str/metal_chug_8str_B1.wav pitch_keycenter=35 lokey=33 hikey=37 lovel=1 hivel=127
+<region> sample=../../14_MELODIC/guitars/metal_chug_8str/metal_chug_8str_E2.wav pitch_keycenter=40 lokey=38 hikey=42 lovel=1 hivel=127
+<region> sample=../../14_MELODIC/guitars/metal_chug_8str/metal_chug_8str_A2.wav pitch_keycenter=45 lokey=43 hikey=47 lovel=1 hivel=127
+<region> sample=../../14_MELODIC/guitars/metal_chug_8str/metal_chug_8str_D3.wav pitch_keycenter=50 lokey=48 hikey=52 lovel=1 hivel=127
+<region> sample=../../14_MELODIC/guitars/metal_chug_8str/metal_chug_8str_G3.wav pitch_keycenter=55 lokey=53 hikey=57 lovel=1 hivel=127
+<region> sample=../../14_MELODIC/guitars/metal_chug_8str/metal_chug_8str_C4.wav pitch_keycenter=60 lokey=58 hikey=63 lovel=1 hivel=127
+<region> sample=../../14_MELODIC/guitars/metal_chug_8str/metal_chug_8str_Fs4.wav pitch_keycenter=66 lokey=64 hikey=108 lovel=1 hivel=127

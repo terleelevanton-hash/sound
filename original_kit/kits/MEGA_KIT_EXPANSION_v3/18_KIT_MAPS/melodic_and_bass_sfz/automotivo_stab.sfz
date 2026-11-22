@@ -1,0 +1,14 @@
+// MEGA KIT v3 - automotivo_stab (8 multi-sampled root zones)
+// Full keyboard range A0..C8 (MIDI 21..108), non-overlapping zones, verified paths
+<global>
+ampeg_release=0.35
+amp_veltrack=82
+
+<region> sample=../../10_PERC_ELECTRONIC/automotivo_stab/automotivo_stab_C3.wav pitch_keycenter=48 lokey=21 hikey=49 lovel=1 hivel=127
+<region> sample=../../10_PERC_ELECTRONIC/automotivo_stab/automotivo_stab_Ds3.wav pitch_keycenter=51 lokey=50 hikey=52 lovel=1 hivel=127
+<region> sample=../../10_PERC_ELECTRONIC/automotivo_stab/automotivo_stab_F3.wav pitch_keycenter=53 lokey=53 hikey=54 lovel=1 hivel=127
+<region> sample=../../10_PERC_ELECTRONIC/automotivo_stab/automotivo_stab_G3.wav pitch_keycenter=55 lokey=55 hikey=56 lovel=1 hivel=127
+<region> sample=../../10_PERC_ELECTRONIC/automotivo_stab/automotivo_stab_As3.wav pitch_keycenter=58 lokey=57 hikey=59 lovel=1 hivel=127
+<region> sample=../../10_PERC_ELECTRONIC/automotivo_stab/automotivo_stab_C4.wav pitch_keycenter=60 lokey=60 hikey=61 lovel=1 hivel=127
+<region> sample=../../10_PERC_ELECTRONIC/automotivo_stab/automotivo_stab_Ds4.wav pitch_keycenter=63 lokey=62 hikey=65 lovel=1 hivel=127
+<region> sample=../../10_PERC_ELECTRONIC/automotivo_stab/automotivo_stab_G4.wav pitch_keycenter=67 lokey=66 hikey=108 lovel=1 hivel=127

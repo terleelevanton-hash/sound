@@ -1,0 +1,19 @@
+03_DRIFT_PHONK_MEMPHIS — Рекомендуемая 16-пэд раскладка (MEGA KIT v3)
+================================================================
+
+ 1. [MIDI 36] Kick Hard          01_KICKS/baile_funk/kick_baile_funk_01.wav
+ 2. [MIDI 37] Kick Gabber        01_KICKS/gabber_hardcore/kick_gabber_02.wav
+ 3. [MIDI 38] Snare Crisp        02_SNARES/modern_pop/snare_modern_pop_03.wav
+ 4. [MIDI 39] Clap               03_CLAPS/modern_pop/clap_modern_pop_01.wav
+ 5. [MIDI 40] Cowbell A4         09_PERC_ACOUSTIC/drift_cowbell_tuned/cowbell_808_Cs4.wav
+ 6. [MIDI 41] Hat Tight          05_HATS_CLOSED/rnb_tight/hat_rnb_tight_03.wav
+ 7. [MIDI 42] Hat Open           06_HATS_OPEN/synthwave/openhat_synthwave_01.wav
+ 8. [MIDI 43] Cowbell E5         09_PERC_ACOUSTIC/drift_cowbell_tuned/cowbell_808_Cs4.wav
+ 9. [MIDI 44] 808 Opium          12_808_SUB/808_opium_buzz/808_opium_D1.wav
+10. [MIDI 45] 808 Spinz          12_808_SUB/808_spinz_pro/808_spinz_C1.wav
+11. [MIDI 46] Braaam FX          15_FX/cinema_braaam/braaam_D1.wav
+12. [MIDI 47] Tape Stop          15_FX/tape_stops/tape_stop_03.wav
+13. [MIDI 48] Cowbell Loop       16_LOOPS/melodic_loops/phonk_cowbell_melody_160bpm_Am.wav
+14. [MIDI 49] Cassette Hiss      15_FX/atmos_loops/cassette_texture_1bar_140bpm.wav
+15. [MIDI 50] Sub Drop           15_FX/sub_drops/sub_drop_03.wav
+16. [MIDI 51] Triplet Fill       19_FILLS_ROLLS/fill_trap_triplet_snare_1bar_140bpm.wav

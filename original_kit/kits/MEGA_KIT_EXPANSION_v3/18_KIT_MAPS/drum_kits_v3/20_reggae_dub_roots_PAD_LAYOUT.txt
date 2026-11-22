@@ -1,0 +1,19 @@
+20_REGGAE_DUB_ROOTS — Рекомендуемая 16-пэд раскладка (MEGA KIT v3)
+================================================================
+
+ 1. [MIDI 36] Roots Kick         01_KICKS/jazz/kick_jazz_01.wav
+ 2. [MIDI 37] Warm Kick          01_KICKS/rnb_neosoul/kick_rnb_neosoul_02.wav
+ 3. [MIDI 38] Rim Click          02_SNARES/rnb_rim_snare/snare_rnb_rim_snare_03.wav
+ 4. [MIDI 39] Ghost Snare        02_SNARES/ghost_notes/snare_ghost_notes_01.wav
+ 5. [MIDI 40] Brush Tap          02_SNARES/jazz_brush_tap/brush_tap_02.wav
+ 6. [MIDI 41] Closed Hat         05_HATS_CLOSED/jazz_foot_chick/hat_jazz_foot_chick_03.wav
+ 7. [MIDI 42] Open Hat           06_HATS_OPEN/rnb/openhat_rnb_01.wav
+ 8. [MIDI 43] Dub Siren FX       15_FX/dub_sirens/dub_siren_02.wav
+ 9. [MIDI 44] Upright Sub        13_BASS/upright_double_bass/upright_double_bass_D1.wav
+10. [MIDI 45] Moog Sub           13_BASS/moog_fat_bass/moog_fat_bass_C1.wav
+11. [MIDI 46] Dub Delay Chord    14_MELODIC/chords_stabs/dub_techno_chord/dub_chord_Cs3.wav
+12. [MIDI 47] Clavinet Skank     14_MELODIC/keys/clavinet/clavinet_As2.wav
+13. [MIDI 48] Pipe Organ         14_MELODIC/keys/pipe_organ/pipe_organ_C2.wav
+14. [MIDI 49] Trombone Horn      14_MELODIC/brass/trombone/trombone_Gs2.wav
+15. [MIDI 50] One-Drop Loop      16_LOOPS/drum_loops/reggae_onedrop_78bpm.wav
+16. [MIDI 51] Vinyl Crackle      15_FX/atmos_loops/vinyl_texture_1bar_85bpm.wav

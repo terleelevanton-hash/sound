@@ -1,0 +1,22 @@
+// MEGA KIT v3 - donk_organ_bass (16 multi-sampled root zones)
+// Full keyboard range A0..C8 (MIDI 21..108), non-overlapping zones, verified paths
+<global>
+ampeg_release=0.35
+amp_veltrack=82
+
+<region> sample=../../13_BASS/donk_organ_bass/donk_organ_bass_C1.wav pitch_keycenter=24 lokey=21 hikey=26 lovel=1 hivel=127
+<region> sample=../../13_BASS/donk_organ_bass/donk_organ_bass_E1.wav pitch_keycenter=28 lokey=27 hikey=29 lovel=1 hivel=127
+<region> sample=../../13_BASS/donk_organ_bass/donk_organ_bass_G1.wav pitch_keycenter=31 lokey=30 hikey=32 lovel=1 hivel=127
+<region> sample=../../13_BASS/donk_organ_bass/donk_organ_bass_A1.wav pitch_keycenter=33 lokey=33 hikey=34 lovel=1 hivel=127
+<region> sample=../../13_BASS/donk_organ_bass/donk_organ_bass_C2.wav pitch_keycenter=36 lokey=35 hikey=36 lovel=1 hivel=127
+<region> sample=../../13_BASS/donk_organ_bass/donk_organ_bass_Cs2.wav pitch_keycenter=37 lokey=37 hikey=37 lovel=1 hivel=127
+<region> sample=../../13_BASS/donk_organ_bass/donk_organ_bass_D2.wav pitch_keycenter=38 lokey=38 hikey=38 lovel=1 hivel=127
+<region> sample=../../13_BASS/donk_organ_bass/donk_organ_bass_Ds2.wav pitch_keycenter=39 lokey=39 hikey=39 lovel=1 hivel=127
+<region> sample=../../13_BASS/donk_organ_bass/donk_organ_bass_E2.wav pitch_keycenter=40 lokey=40 hikey=40 lovel=1 hivel=127
+<region> sample=../../13_BASS/donk_organ_bass/donk_organ_bass_F2.wav pitch_keycenter=41 lokey=41 hikey=41 lovel=1 hivel=127
+<region> sample=../../13_BASS/donk_organ_bass/donk_organ_bass_Fs2.wav pitch_keycenter=42 lokey=42 hikey=42 lovel=1 hivel=127
+<region> sample=../../13_BASS/donk_organ_bass/donk_organ_bass_G2.wav pitch_keycenter=43 lokey=43 hikey=43 lovel=1 hivel=127
+<region> sample=../../13_BASS/donk_organ_bass/donk_organ_bass_Gs2.wav pitch_keycenter=44 lokey=44 hikey=44 lovel=1 hivel=127
+<region> sample=../../13_BASS/donk_organ_bass/donk_organ_bass_A2.wav pitch_keycenter=45 lokey=45 hikey=45 lovel=1 hivel=127
+<region> sample=../../13_BASS/donk_organ_bass/donk_organ_bass_As2.wav pitch_keycenter=46 lokey=46 hikey=46 lovel=1 hivel=127
+<region> sample=../../13_BASS/donk_organ_bass/donk_organ_bass_B2.wav pitch_keycenter=47 lokey=47 hikey=108 lovel=1 hivel=127

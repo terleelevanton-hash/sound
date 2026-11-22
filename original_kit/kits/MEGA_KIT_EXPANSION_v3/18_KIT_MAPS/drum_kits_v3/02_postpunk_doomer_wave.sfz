@@ -1,0 +1,22 @@
+// MEGA KIT v3 - 02_POSTPUNK_DOOMER_WAVE 16-Pad Producer Kit
+// Mapped to MIDI notes 36..51 (C2..D#3 standard MPC / FL FPC / Ableton Drum Rack)
+<global>
+ampeg_release=0.80
+amp_veltrack=85
+
+<region> sample=../../01_KICKS/postpunk/kick_postpunk_01.wav key=36 lovel=1 hivel=127
+<region> sample=../../01_KICKS/disco/kick_disco_02.wav key=37 lovel=1 hivel=127
+<region> sample=../../02_SNARES/postpunk/snare_postpunk_03.wav key=38 lovel=1 hivel=127
+<region> sample=../../02_SNARES/synthwave_gated/snare_synthwave_gated_01.wav key=39 lovel=1 hivel=127
+<region> sample=../../03_CLAPS/modern_pop/clap_modern_pop_02.wav key=40 lovel=1 hivel=127
+<region> sample=../../05_HATS_CLOSED/postpunk/hat_postpunk_03.wav key=41 lovel=1 hivel=127 group=1 off_by=1
+<region> sample=../../06_HATS_OPEN/postpunk/openhat_postpunk_01.wav key=42 lovel=1 hivel=127 group=1 off_by=1
+<region> sample=../../08_TOMS/simmons_80s/simmons_tom_hi_2.wav key=43 lovel=1 hivel=127
+<region> sample=../../13_BASS/picked_rock_bass/picked_rock_bass_A1.wav key=44 lovel=1 hivel=127
+<region> sample=../../13_BASS/moog_fat_bass/moog_fat_bass_C1.wav key=45 lovel=1 hivel=127
+<region> sample=../../14_MELODIC/guitars/shimmer_guitar/shimmer_guitar_A2.wav key=46 lovel=1 hivel=127
+<region> sample=../../14_MELODIC/synths/retro_poly80/retro_poly80_As2.wav key=47 lovel=1 hivel=127
+<region> sample=../../14_MELODIC/pads/pad_cs80_dark/pad_cs80_dark_C2.wav key=48 lovel=1 hivel=127
+<region> sample=../../14_MELODIC/pads/pad_tape_strings/pad_tape_strings_A2.wav key=49 lovel=1 hivel=127
+<region> sample=../../16_LOOPS/drum_loops/postpunk_148bpm.wav key=50 lovel=1 hivel=127
+<region> sample=../../16_LOOPS/melodic_loops/postpunk_bass_riff_148bpm_Em.wav key=51 lovel=1 hivel=127

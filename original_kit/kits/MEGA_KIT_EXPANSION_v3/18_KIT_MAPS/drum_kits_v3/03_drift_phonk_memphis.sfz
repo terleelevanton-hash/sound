@@ -1,0 +1,22 @@
+// MEGA KIT v3 - 03_DRIFT_PHONK_MEMPHIS 16-Pad Producer Kit
+// Mapped to MIDI notes 36..51 (C2..D#3 standard MPC / FL FPC / Ableton Drum Rack)
+<global>
+ampeg_release=0.80
+amp_veltrack=85
+
+<region> sample=../../01_KICKS/baile_funk/kick_baile_funk_01.wav key=36 lovel=1 hivel=127
+<region> sample=../../01_KICKS/gabber_hardcore/kick_gabber_02.wav key=37 lovel=1 hivel=127
+<region> sample=../../02_SNARES/modern_pop/snare_modern_pop_03.wav key=38 lovel=1 hivel=127
+<region> sample=../../03_CLAPS/modern_pop/clap_modern_pop_01.wav key=39 lovel=1 hivel=127
+<region> sample=../../09_PERC_ACOUSTIC/drift_cowbell_tuned/cowbell_808_Cs4.wav key=40 lovel=1 hivel=127
+<region> sample=../../05_HATS_CLOSED/rnb_tight/hat_rnb_tight_03.wav key=41 lovel=1 hivel=127 group=1 off_by=1
+<region> sample=../../06_HATS_OPEN/synthwave/openhat_synthwave_01.wav key=42 lovel=1 hivel=127 group=1 off_by=1
+<region> sample=../../09_PERC_ACOUSTIC/drift_cowbell_tuned/cowbell_808_Cs4.wav key=43 lovel=1 hivel=127
+<region> sample=../../12_808_SUB/808_opium_buzz/808_opium_D1.wav key=44 lovel=1 hivel=127
+<region> sample=../../12_808_SUB/808_spinz_pro/808_spinz_C1.wav key=45 lovel=1 hivel=127
+<region> sample=../../15_FX/cinema_braaam/braaam_D1.wav key=46 lovel=1 hivel=127
+<region> sample=../../15_FX/tape_stops/tape_stop_03.wav key=47 lovel=1 hivel=127
+<region> sample=../../16_LOOPS/melodic_loops/phonk_cowbell_melody_160bpm_Am.wav key=48 lovel=1 hivel=127
+<region> sample=../../15_FX/atmos_loops/cassette_texture_1bar_140bpm.wav key=49 lovel=1 hivel=127
+<region> sample=../../15_FX/sub_drops/sub_drop_03.wav key=50 lovel=1 hivel=127
+<region> sample=../../19_FILLS_ROLLS/fill_trap_triplet_snare_1bar_140bpm.wav key=51 lovel=1 hivel=127

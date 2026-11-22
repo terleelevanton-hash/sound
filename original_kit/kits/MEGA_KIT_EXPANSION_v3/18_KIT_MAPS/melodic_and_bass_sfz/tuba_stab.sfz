@@ -1,0 +1,13 @@
+// MEGA KIT v3 - tuba_stab (7 multi-sampled root zones)
+// Full keyboard range A0..C8 (MIDI 21..108), non-overlapping zones, verified paths
+<global>
+ampeg_release=0.35
+amp_veltrack=82
+
+<region> sample=../../14_MELODIC/brass/tuba_stab/tuba_stab_C1.wav pitch_keycenter=24 lokey=21 hikey=26 lovel=1 hivel=127
+<region> sample=../../14_MELODIC/brass/tuba_stab/tuba_stab_E1.wav pitch_keycenter=28 lokey=27 hikey=30 lovel=1 hivel=127
+<region> sample=../../14_MELODIC/brass/tuba_stab/tuba_stab_Gs1.wav pitch_keycenter=32 lokey=31 hikey=34 lovel=1 hivel=127
+<region> sample=../../14_MELODIC/brass/tuba_stab/tuba_stab_C2.wav pitch_keycenter=36 lokey=35 hikey=38 lovel=1 hivel=127
+<region> sample=../../14_MELODIC/brass/tuba_stab/tuba_stab_E2.wav pitch_keycenter=40 lokey=39 hikey=42 lovel=1 hivel=127
+<region> sample=../../14_MELODIC/brass/tuba_stab/tuba_stab_Gs2.wav pitch_keycenter=44 lokey=43 hikey=46 lovel=1 hivel=127
+<region> sample=../../14_MELODIC/brass/tuba_stab/tuba_stab_C3.wav pitch_keycenter=48 lokey=47 hikey=108 lovel=1 hivel=127
