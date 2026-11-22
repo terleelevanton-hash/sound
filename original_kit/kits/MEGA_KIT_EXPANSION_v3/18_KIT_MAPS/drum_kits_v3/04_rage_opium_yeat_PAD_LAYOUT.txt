@@ -1,0 +1,19 @@
+04_RAGE_OPIUM_YEAT — Рекомендуемая 16-пэд раскладка (MEGA KIT v3)
+================================================================
+
+ 1. [MIDI 36] Kick Punch         01_KICKS/modern_pop/kick_modern_pop_01.wav
+ 2. [MIDI 37] Kick Hard          01_KICKS/gabber_hardcore/kick_gabber_02.wav
+ 3. [MIDI 38] Snare Pop          02_SNARES/modern_pop/snare_modern_pop_03.wav
+ 4. [MIDI 39] Clap Wide          03_CLAPS/modern_pop/clap_modern_pop_01.wav
+ 5. [MIDI 40] Church Bell        20_TONAL_PERC/church_bell/church_bell_E3.wav
+ 6. [MIDI 41] Hat Closed         05_HATS_CLOSED/rnb_tight/hat_rnb_tight_03.wav
+ 7. [MIDI 42] Hat Open           06_HATS_OPEN/synthwave/openhat_synthwave_01.wav
+ 8. [MIDI 43] Cyber Riser        15_FX/cyber_risers/cyber_riser_2bar_128bpm.wav
+ 9. [MIDI 44] 808 Opium Buzz     12_808_SUB/808_opium_buzz/808_opium_D1.wav
+10. [MIDI 45] 808 Spinz Pro      12_808_SUB/808_spinz_pro/808_spinz_C1.wav
+11. [MIDI 46] Rage Lead C4       14_MELODIC/synths/rage_lead/rage_lead_F3.wav
+12. [MIDI 47] Hyperpop Lead      14_MELODIC/synths/hyperpop_lead/hyperpop_lead_As3.wav
+13. [MIDI 48] Pipe Organ         14_MELODIC/keys/pipe_organ/pipe_organ_C2.wav
+14. [MIDI 49] Rage Loop          16_LOOPS/melodic_loops/rage_synths_152bpm_Fm.wav
+15. [MIDI 50] Drum Loop          16_LOOPS/drum_loops/rage_opium_152bpm.wav
+16. [MIDI 51] Sub Drop           15_FX/sub_drops/sub_drop_01.wav

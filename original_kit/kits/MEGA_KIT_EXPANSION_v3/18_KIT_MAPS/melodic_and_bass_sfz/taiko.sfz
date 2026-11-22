@@ -1,0 +1,12 @@
+// MEGA KIT v3 - taiko (6 multi-sampled root zones)
+// Full keyboard range A0..C8 (MIDI 21..108), non-overlapping zones, verified paths
+<global>
+ampeg_release=0.35
+amp_veltrack=82
+
+<region> sample=../../20_TONAL_PERC/orchestral_taiko/taiko_C1.wav pitch_keycenter=24 lokey=21 hikey=25 lovel=1 hivel=127
+<region> sample=../../20_TONAL_PERC/orchestral_taiko/taiko_D1.wav pitch_keycenter=26 lokey=26 hikey=27 lovel=1 hivel=127
+<region> sample=../../20_TONAL_PERC/orchestral_taiko/taiko_F1.wav pitch_keycenter=29 lokey=28 hikey=30 lovel=1 hivel=127
+<region> sample=../../20_TONAL_PERC/orchestral_taiko/taiko_G1.wav pitch_keycenter=31 lokey=31 hikey=32 lovel=1 hivel=127
+<region> sample=../../20_TONAL_PERC/orchestral_taiko/taiko_A1.wav pitch_keycenter=33 lokey=33 hikey=34 lovel=1 hivel=127
+<region> sample=../../20_TONAL_PERC/orchestral_taiko/taiko_C2.wav pitch_keycenter=36 lokey=35 hikey=108 lovel=1 hivel=127

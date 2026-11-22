@@ -1,0 +1,19 @@
+11_HARDBASS_RAVE_GABBER — Рекомендуемая 16-пэд раскладка (MEGA KIT v3)
+================================================================
+
+ 1. [MIDI 36] Gabber Kick 1      01_KICKS/gabber_hardcore/kick_gabber_01.wav
+ 2. [MIDI 37] Psy Kick           01_KICKS/psytrance/kick_psytrance_02.wav
+ 3. [MIDI 38] House Snare        02_SNARES/house/snare_house_03.wav
+ 4. [MIDI 39] Wide Clap          03_CLAPS/modern_pop/clap_modern_pop_01.wav
+ 5. [MIDI 40] Buildup Snare      02_SNARES/edm_buildup_hit/snare_edm_buildup_hit_02.wav
+ 6. [MIDI 41] Hat Closed         05_HATS_CLOSED/disco_crisp/hat_disco_crisp_03.wav
+ 7. [MIDI 42] Open Hat           06_HATS_OPEN/disco_sizzle/openhat_disco_sizzle_01.wav
+ 8. [MIDI 43] Dub Siren          15_FX/dub_sirens/dub_siren_02.wav
+ 9. [MIDI 44] Hardbass Donk      13_BASS/hardbass_donk/hardbass_donk_D2.wav
+10. [MIDI 45] M1 Organ Bass      13_BASS/donk_organ_bass/donk_organ_bass_C1.wav
+11. [MIDI 46] Rave Hoover        14_MELODIC/synths/rave_hoover/rave_hoover_F2.wav
+12. [MIDI 47] Psy FM Lead        14_MELODIC/synths/psy_fm_lead/psy_fm_lead_As2.wav
+13. [MIDI 48] Bayan Folk         14_MELODIC/world/bayan/bayan_C2.wav
+14. [MIDI 49] Cyber Riser        15_FX/cyber_risers/cyber_riser_2bar_128bpm.wav
+15. [MIDI 50] Hardbass Loop      16_LOOPS/drum_loops/hardbass_155bpm.wav
+16. [MIDI 51] EDM Buildup        19_FILLS_ROLLS/fill_edm_snare_buildup_2bar_128bpm.wav

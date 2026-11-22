@@ -1,0 +1,15 @@
+// MEGA KIT v3 - trombone (9 multi-sampled root zones)
+// Full keyboard range A0..C8 (MIDI 21..108), non-overlapping zones, verified paths
+<global>
+ampeg_release=0.35
+amp_veltrack=82
+
+<region> sample=../../14_MELODIC/brass/trombone/trombone_E2.wav pitch_keycenter=40 lokey=21 hikey=42 lovel=1 hivel=127
+<region> sample=../../14_MELODIC/brass/trombone/trombone_Gs2.wav pitch_keycenter=44 lokey=43 hikey=46 lovel=1 hivel=127
+<region> sample=../../14_MELODIC/brass/trombone/trombone_C3.wav pitch_keycenter=48 lokey=47 hikey=50 lovel=1 hivel=127
+<region> sample=../../14_MELODIC/brass/trombone/trombone_E3.wav pitch_keycenter=52 lokey=51 hikey=54 lovel=1 hivel=127
+<region> sample=../../14_MELODIC/brass/trombone/trombone_Gs3.wav pitch_keycenter=56 lokey=55 hikey=58 lovel=1 hivel=127
+<region> sample=../../14_MELODIC/brass/trombone/trombone_C4.wav pitch_keycenter=60 lokey=59 hikey=62 lovel=1 hivel=127
+<region> sample=../../14_MELODIC/brass/trombone/trombone_E4.wav pitch_keycenter=64 lokey=63 hikey=66 lovel=1 hivel=127
+<region> sample=../../14_MELODIC/brass/trombone/trombone_Gs4.wav pitch_keycenter=68 lokey=67 hikey=70 lovel=1 hivel=127
+<region> sample=../../14_MELODIC/brass/trombone/trombone_C5.wav pitch_keycenter=72 lokey=71 hikey=108 lovel=1 hivel=127

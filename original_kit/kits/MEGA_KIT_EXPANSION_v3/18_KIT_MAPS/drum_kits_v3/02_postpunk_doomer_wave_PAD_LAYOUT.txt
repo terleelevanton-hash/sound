@@ -1,0 +1,19 @@
+02_POSTPUNK_DOOMER_WAVE — Рекомендуемая 16-пэд раскладка (MEGA KIT v3)
+================================================================
+
+ 1. [MIDI 36] Kick 1             01_KICKS/postpunk/kick_postpunk_01.wav
+ 2. [MIDI 37] Kick 2             01_KICKS/disco/kick_disco_02.wav
+ 3. [MIDI 38] Snare Room         02_SNARES/postpunk/snare_postpunk_03.wav
+ 4. [MIDI 39] Snare 80s          02_SNARES/synthwave_gated/snare_synthwave_gated_01.wav
+ 5. [MIDI 40] Clap               03_CLAPS/modern_pop/clap_modern_pop_02.wav
+ 6. [MIDI 41] Hat Closed         05_HATS_CLOSED/postpunk/hat_postpunk_03.wav
+ 7. [MIDI 42] Hat Open           06_HATS_OPEN/postpunk/openhat_postpunk_01.wav
+ 8. [MIDI 43] Simmons Tom        08_TOMS/simmons_80s/simmons_tom_hi_2.wav
+ 9. [MIDI 44] Picked Bass        13_BASS/picked_rock_bass/picked_rock_bass_A1.wav
+10. [MIDI 45] Moog Bass          13_BASS/moog_fat_bass/moog_fat_bass_C1.wav
+11. [MIDI 46] Shimmer Guitar     14_MELODIC/guitars/shimmer_guitar/shimmer_guitar_A2.wav
+12. [MIDI 47] Retro Poly         14_MELODIC/synths/retro_poly80/retro_poly80_As2.wav
+13. [MIDI 48] Dark Pad           14_MELODIC/pads/pad_cs80_dark/pad_cs80_dark_C2.wav
+14. [MIDI 49] TapeStrings        14_MELODIC/pads/pad_tape_strings/pad_tape_strings_A2.wav
+15. [MIDI 50] Drum Loop          16_LOOPS/drum_loops/postpunk_148bpm.wav
+16. [MIDI 51] Bass Riff Loop     16_LOOPS/melodic_loops/postpunk_bass_riff_148bpm_Em.wav

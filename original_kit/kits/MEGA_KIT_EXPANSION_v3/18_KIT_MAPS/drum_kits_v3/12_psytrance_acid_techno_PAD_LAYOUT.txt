@@ -1,0 +1,19 @@
+12_PSYTRANCE_ACID_TECHNO — Рекомендуемая 16-пэд раскладка (MEGA KIT v3)
+================================================================
+
+ 1. [MIDI 36] Psy Kick 1         01_KICKS/psytrance/kick_psytrance_01.wav
+ 2. [MIDI 37] Psy Kick 2         01_KICKS/psytrance/kick_psytrance_02.wav
+ 3. [MIDI 38] Techno Snare       02_SNARES/house/snare_house_03.wav
+ 4. [MIDI 39] Clap               03_CLAPS/modern_pop/clap_modern_pop_01.wav
+ 5. [MIDI 40] Automotivo Perc    10_PERC_ELECTRONIC/automotivo_stab/automotivo_stab_Ds3.wav
+ 6. [MIDI 41] Hat Closed         05_HATS_CLOSED/disco_crisp/hat_disco_crisp_03.wav
+ 7. [MIDI 42] Open Hat           06_HATS_OPEN/synthwave/openhat_synthwave_01.wav
+ 8. [MIDI 43] Cyber Riser        15_FX/cyber_risers/cyber_riser_2bar_128bpm.wav
+ 9. [MIDI 44] Moog Bass          13_BASS/moog_fat_bass/moog_fat_bass_G1.wav
+10. [MIDI 45] Neuro Bass         13_BASS/neuro_bass/neuro_bass_C1.wav
+11. [MIDI 46] Psy FM Lead        14_MELODIC/synths/psy_fm_lead/psy_fm_lead_F2.wav
+12. [MIDI 47] Dub Techno Chord   14_MELODIC/chords_stabs/dub_techno_chord/dub_chord_D3.wav
+13. [MIDI 48] Rave Hoover        14_MELODIC/synths/rave_hoover/rave_hoover_C2.wav
+14. [MIDI 49] Dark Drone         14_MELODIC/pads/drone_dark_cinema/drone_dark_cinema_E1.wav
+15. [MIDI 50] Psytrance Loop     16_LOOPS/drum_loops/psytrance_140bpm.wav
+16. [MIDI 51] Sub Drop           15_FX/sub_drops/sub_drop_01.wav

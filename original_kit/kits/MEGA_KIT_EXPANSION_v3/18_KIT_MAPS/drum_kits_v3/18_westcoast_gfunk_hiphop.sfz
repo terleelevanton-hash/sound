@@ -1,0 +1,22 @@
+// MEGA KIT v3 - 18_WESTCOAST_GFUNK_HIPHOP 16-Pad Producer Kit
+// Mapped to MIDI notes 36..51 (C2..D#3 standard MPC / FL FPC / Ableton Drum Rack)
+<global>
+ampeg_release=0.80
+amp_veltrack=85
+
+<region> sample=../../01_KICKS/rnb_neosoul/kick_rnb_neosoul_01.wav key=36 lovel=1 hivel=127
+<region> sample=../../01_KICKS/disco/kick_disco_02.wav key=37 lovel=1 hivel=127
+<region> sample=../../02_SNARES/disco_funk/snare_disco_funk_03.wav key=38 lovel=1 hivel=127
+<region> sample=../../03_CLAPS/disco_layered/clap_disco_layered_01.wav key=39 lovel=1 hivel=127
+<region> sample=../../02_SNARES/rnb_rim_snare/snare_rnb_rim_snare_02.wav key=40 lovel=1 hivel=127
+<region> sample=../../05_HATS_CLOSED/rnb_tight/hat_rnb_tight_03.wav key=41 lovel=1 hivel=127 group=1 off_by=1
+<region> sample=../../06_HATS_OPEN/disco_sizzle/openhat_disco_sizzle_01.wav key=42 lovel=1 hivel=127 group=1 off_by=1
+<region> sample=../../09_PERC_ACOUSTIC/drift_cowbell_tuned/cowbell_808_Cs4.wav key=43 lovel=1 hivel=127
+<region> sample=../../13_BASS/moog_fat_bass/moog_fat_bass_G1.wav key=44 lovel=1 hivel=127
+<region> sample=../../13_BASS/slap_bass/slap_bass_E1.wav key=45 lovel=1 hivel=127
+<region> sample=../../14_MELODIC/synths/gfunk_whistle_lead/gfunk_whistle_lead_E4.wav key=46 lovel=1 hivel=127
+<region> sample=../../14_MELODIC/keys/wurli_ep/wurli_ep_C3.wav key=47 lovel=1 hivel=127
+<region> sample=../../14_MELODIC/keys/clavinet/clavinet_C2.wav key=48 lovel=1 hivel=127
+<region> sample=../../14_MELODIC/guitars/funk_wah_guitar/funk_wah_guitar_A2.wav key=49 lovel=1 hivel=127
+<region> sample=../../14_MELODIC/brass/funk_brass_section/funk_brass_section_As3.wav key=50 lovel=1 hivel=127
+<region> sample=../../15_FX/tape_stops/tape_stop_01.wav key=51 lovel=1 hivel=127

@@ -1,0 +1,15 @@
+// MEGA KIT v3 - gfunk_whistle_lead (9 multi-sampled root zones)
+// Full keyboard range A0..C8 (MIDI 21..108), non-overlapping zones, verified paths
+<global>
+ampeg_release=0.35
+amp_veltrack=82
+
+<region> sample=../../14_MELODIC/synths/gfunk_whistle_lead/gfunk_whistle_lead_C4.wav pitch_keycenter=60 lokey=21 hikey=62 lovel=1 hivel=127
+<region> sample=../../14_MELODIC/synths/gfunk_whistle_lead/gfunk_whistle_lead_E4.wav pitch_keycenter=64 lokey=63 hikey=66 lovel=1 hivel=127
+<region> sample=../../14_MELODIC/synths/gfunk_whistle_lead/gfunk_whistle_lead_Gs4.wav pitch_keycenter=68 lokey=67 hikey=70 lovel=1 hivel=127
+<region> sample=../../14_MELODIC/synths/gfunk_whistle_lead/gfunk_whistle_lead_C5.wav pitch_keycenter=72 lokey=71 hikey=74 lovel=1 hivel=127
+<region> sample=../../14_MELODIC/synths/gfunk_whistle_lead/gfunk_whistle_lead_E5.wav pitch_keycenter=76 lokey=75 hikey=78 lovel=1 hivel=127
+<region> sample=../../14_MELODIC/synths/gfunk_whistle_lead/gfunk_whistle_lead_Gs5.wav pitch_keycenter=80 lokey=79 hikey=82 lovel=1 hivel=127
+<region> sample=../../14_MELODIC/synths/gfunk_whistle_lead/gfunk_whistle_lead_C6.wav pitch_keycenter=84 lokey=83 hikey=86 lovel=1 hivel=127
+<region> sample=../../14_MELODIC/synths/gfunk_whistle_lead/gfunk_whistle_lead_E6.wav pitch_keycenter=88 lokey=87 hikey=90 lovel=1 hivel=127
+<region> sample=../../14_MELODIC/synths/gfunk_whistle_lead/gfunk_whistle_lead_Gs6.wav pitch_keycenter=92 lokey=91 hikey=108 lovel=1 hivel=127

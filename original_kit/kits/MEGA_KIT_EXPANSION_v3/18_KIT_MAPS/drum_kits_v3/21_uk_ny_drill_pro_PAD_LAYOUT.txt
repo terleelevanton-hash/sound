@@ -1,0 +1,19 @@
+21_UK_NY_DRILL_PRO — Рекомендуемая 16-пэд раскладка (MEGA KIT v3)
+================================================================
+
+ 1. [MIDI 36] Drill Punch Kick   01_KICKS/modern_pop/kick_modern_pop_01.wav
+ 2. [MIDI 37] Baile Sub Kick     01_KICKS/baile_funk/kick_baile_funk_02.wav
+ 3. [MIDI 38] Counter Snare      02_SNARES/reggaeton_dembow/snare_reggaeton_dembow_03.wav
+ 4. [MIDI 39] Rim Snare          02_SNARES/rnb_rim_snare/snare_rnb_rim_snare_01.wav
+ 5. [MIDI 40] Clap               03_CLAPS/modern_pop/clap_modern_pop_02.wav
+ 6. [MIDI 41] Tight Hat          05_HATS_CLOSED/rnb_tight/hat_rnb_tight_03.wav
+ 7. [MIDI 42] Open Hat           06_HATS_OPEN/rnb/openhat_rnb_01.wav
+ 8. [MIDI 43] Church Bell        20_TONAL_PERC/church_bell/church_bell_E3.wav
+ 9. [MIDI 44] 808 Drill Slide 1  12_808_SUB/808_drill_slide_long/808_drill_E1_up_E2.wav
+10. [MIDI 45] 808 Spinz Pro      12_808_SUB/808_spinz_pro/808_spinz_C1.wav
+11. [MIDI 46] Felt Piano         14_MELODIC/keys/felt_upright/felt_upright_Fs2.wav
+12. [MIDI 47] Mellotron Strings  14_MELODIC/keys/mellotron_strings/mellotron_strings_As2.wav
+13. [MIDI 48] French Horn        14_MELODIC/brass/french_horn/french_horn_C2.wav
+14. [MIDI 49] Dark Cinema Drone  14_MELODIC/pads/drone_dark_cinema/drone_dark_cinema_E1.wav
+15. [MIDI 50] Braaam Hit         15_FX/cinema_braaam/braaam_E1.wav
+16. [MIDI 51] Drill Fill         19_FILLS_ROLLS/fill_drill_countersnare_1bar_142bpm.wav

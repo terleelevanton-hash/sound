@@ -1,0 +1,22 @@
+// MEGA KIT v3 - 16_CIS_RUSSIAN_FOLK_FUSION 16-Pad Producer Kit
+// Mapped to MIDI notes 36..51 (C2..D#3 standard MPC / FL FPC / Ableton Drum Rack)
+<global>
+ampeg_release=0.80
+amp_veltrack=85
+
+<region> sample=../../01_KICKS/postpunk/kick_postpunk_01.wav key=36 lovel=1 hivel=127
+<region> sample=../../01_KICKS/gabber_hardcore/kick_gabber_02.wav key=37 lovel=1 hivel=127
+<region> sample=../../02_SNARES/postpunk/snare_postpunk_03.wav key=38 lovel=1 hivel=127
+<region> sample=../../03_CLAPS/disco_layered/clap_disco_layered_01.wav key=39 lovel=1 hivel=127
+<region> sample=../../20_TONAL_PERC/church_bell/church_bell_E3.wav key=40 lovel=1 hivel=127
+<region> sample=../../05_HATS_CLOSED/postpunk/hat_postpunk_03.wav key=41 lovel=1 hivel=127 group=1 off_by=1
+<region> sample=../../06_HATS_OPEN/postpunk/openhat_postpunk_01.wav key=42 lovel=1 hivel=127 group=1 off_by=1
+<region> sample=../../20_TONAL_PERC/orchestral_taiko/taiko_D1.wav key=43 lovel=1 hivel=127
+<region> sample=../../13_BASS/upright_double_bass/upright_double_bass_D1.wav key=44 lovel=1 hivel=127
+<region> sample=../../13_BASS/hardbass_donk/hardbass_donk_C2.wav key=45 lovel=1 hivel=127
+<region> sample=../../14_MELODIC/world/balalaika/balalaika_Gs3.wav key=46 lovel=1 hivel=127
+<region> sample=../../14_MELODIC/world/bayan/bayan_As2.wav key=47 lovel=1 hivel=127
+<region> sample=../../14_MELODIC/world/gusli/gusli_C3.wav key=48 lovel=1 hivel=127
+<region> sample=../../14_MELODIC/winds/duduk/duduk_C3.wav key=49 lovel=1 hivel=127
+<region> sample=../../14_MELODIC/guitars/nylon_guitar/nylon_guitar_D3.wav key=50 lovel=1 hivel=127
+<region> sample=../../14_MELODIC/keys/felt_upright/felt_upright_C2.wav key=51 lovel=1 hivel=127

@@ -1,0 +1,22 @@
+// MEGA KIT v3 - 06_JAZZ_CLUB_QUARTET 16-Pad Producer Kit
+// Mapped to MIDI notes 36..51 (C2..D#3 standard MPC / FL FPC / Ableton Drum Rack)
+<global>
+ampeg_release=0.80
+amp_veltrack=85
+
+<region> sample=../../01_KICKS/jazz/kick_jazz_01.wav key=36 lovel=1 hivel=127
+<region> sample=../../08_TOMS/jazz_tuned/jazz_tom_G2.wav key=37 lovel=1 hivel=127
+<region> sample=../../02_SNARES/jazz_brush_tap/brush_tap_03.wav key=38 lovel=1 hivel=127
+<region> sample=../../02_SNARES/jazz_brush_sweep/brush_sweep_01.wav key=39 lovel=1 hivel=127
+<region> sample=../../02_SNARES/ghost_notes/snare_ghost_notes_02.wav key=40 lovel=1 hivel=127
+<region> sample=../../05_HATS_CLOSED/jazz_foot_chick/hat_jazz_foot_chick_03.wav key=41 lovel=1 hivel=127 group=1 off_by=1
+<region> sample=../../07_CYMBALS/jazz_sizzle_ride/jazz_ride_01.wav key=42 lovel=1 hivel=127 group=1 off_by=1
+<region> sample=../../07_CYMBALS/jazz_ride_bell/ride_bell_02.wav key=43 lovel=1 hivel=127
+<region> sample=../../13_BASS/upright_double_bass/upright_double_bass_D1.wav key=44 lovel=1 hivel=127
+<region> sample=../../13_BASS/fretless_bass/fretless_bass_C2.wav key=45 lovel=1 hivel=127
+<region> sample=../../14_MELODIC/keys/concert_grand/concert_grand_Fs2.wav key=46 lovel=1 hivel=127
+<region> sample=../../14_MELODIC/guitars/jazz_guitar/jazz_guitar_D3.wav key=47 lovel=1 hivel=127
+<region> sample=../../14_MELODIC/winds/tenor_sax/tenor_sax_As2.wav key=48 lovel=1 hivel=127
+<region> sample=../../14_MELODIC/winds/alto_sax/alto_sax_Gs3.wav key=49 lovel=1 hivel=127
+<region> sample=../../16_LOOPS/drum_loops/jazz_swing_120bpm.wav key=50 lovel=1 hivel=127
+<region> sample=../../19_FILLS_ROLLS/fill_jazz_brush_turnaround_1bar_120bpm.wav key=51 lovel=1 hivel=127

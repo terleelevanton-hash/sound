@@ -1,0 +1,14 @@
+// MEGA KIT v3 - dx_crystal_bell (8 multi-sampled root zones)
+// Full keyboard range A0..C8 (MIDI 21..108), non-overlapping zones, verified paths
+<global>
+ampeg_release=0.35
+amp_veltrack=82
+
+<region> sample=../../14_MELODIC/synths/dx_crystal_bell/dx_crystal_bell_C3.wav pitch_keycenter=48 lokey=21 hikey=50 lovel=1 hivel=127
+<region> sample=../../14_MELODIC/synths/dx_crystal_bell/dx_crystal_bell_F3.wav pitch_keycenter=53 lokey=51 hikey=55 lovel=1 hivel=127
+<region> sample=../../14_MELODIC/synths/dx_crystal_bell/dx_crystal_bell_As3.wav pitch_keycenter=58 lokey=56 hikey=60 lovel=1 hivel=127
+<region> sample=../../14_MELODIC/synths/dx_crystal_bell/dx_crystal_bell_Ds4.wav pitch_keycenter=63 lokey=61 hikey=65 lovel=1 hivel=127
+<region> sample=../../14_MELODIC/synths/dx_crystal_bell/dx_crystal_bell_Gs4.wav pitch_keycenter=68 lokey=66 hikey=70 lovel=1 hivel=127
+<region> sample=../../14_MELODIC/synths/dx_crystal_bell/dx_crystal_bell_Cs5.wav pitch_keycenter=73 lokey=71 hikey=75 lovel=1 hivel=127
+<region> sample=../../14_MELODIC/synths/dx_crystal_bell/dx_crystal_bell_Fs5.wav pitch_keycenter=78 lokey=76 hikey=81 lovel=1 hivel=127
+<region> sample=../../14_MELODIC/synths/dx_crystal_bell/dx_crystal_bell_C6.wav pitch_keycenter=84 lokey=82 hikey=108 lovel=1 hivel=127

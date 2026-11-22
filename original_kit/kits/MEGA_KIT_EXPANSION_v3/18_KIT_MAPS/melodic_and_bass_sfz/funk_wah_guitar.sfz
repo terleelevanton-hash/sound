@@ -1,0 +1,14 @@
+// MEGA KIT v3 - funk_wah_guitar (8 multi-sampled root zones)
+// Full keyboard range A0..C8 (MIDI 21..108), non-overlapping zones, verified paths
+<global>
+ampeg_release=0.35
+amp_veltrack=82
+
+<region> sample=../../14_MELODIC/guitars/funk_wah_guitar/funk_wah_guitar_E2.wav pitch_keycenter=40 lokey=21 hikey=42 lovel=1 hivel=127
+<region> sample=../../14_MELODIC/guitars/funk_wah_guitar/funk_wah_guitar_A2.wav pitch_keycenter=45 lokey=43 hikey=47 lovel=1 hivel=127
+<region> sample=../../14_MELODIC/guitars/funk_wah_guitar/funk_wah_guitar_D3.wav pitch_keycenter=50 lokey=48 hikey=52 lovel=1 hivel=127
+<region> sample=../../14_MELODIC/guitars/funk_wah_guitar/funk_wah_guitar_G3.wav pitch_keycenter=55 lokey=53 hikey=57 lovel=1 hivel=127
+<region> sample=../../14_MELODIC/guitars/funk_wah_guitar/funk_wah_guitar_C4.wav pitch_keycenter=60 lokey=58 hikey=62 lovel=1 hivel=127
+<region> sample=../../14_MELODIC/guitars/funk_wah_guitar/funk_wah_guitar_E4.wav pitch_keycenter=64 lokey=63 hikey=66 lovel=1 hivel=127
+<region> sample=../../14_MELODIC/guitars/funk_wah_guitar/funk_wah_guitar_A4.wav pitch_keycenter=69 lokey=67 hikey=72 lovel=1 hivel=127
+<region> sample=../../14_MELODIC/guitars/funk_wah_guitar/funk_wah_guitar_E5.wav pitch_keycenter=76 lokey=73 hikey=108 lovel=1 hivel=127

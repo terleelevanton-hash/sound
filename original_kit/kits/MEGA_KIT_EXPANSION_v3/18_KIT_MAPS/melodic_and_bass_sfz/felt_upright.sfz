@@ -1,0 +1,15 @@
+// MEGA KIT v3 - felt_upright (9 multi-sampled root zones)
+// Full keyboard range A0..C8 (MIDI 21..108), non-overlapping zones, verified paths
+<global>
+ampeg_release=0.35
+amp_veltrack=82
+
+<region> sample=../../14_MELODIC/keys/felt_upright/felt_upright_C2.wav pitch_keycenter=36 lokey=21 hikey=39 lovel=1 hivel=127
+<region> sample=../../14_MELODIC/keys/felt_upright/felt_upright_Fs2.wav pitch_keycenter=42 lokey=40 hikey=45 lovel=1 hivel=127
+<region> sample=../../14_MELODIC/keys/felt_upright/felt_upright_C3.wav pitch_keycenter=48 lokey=46 hikey=51 lovel=1 hivel=127
+<region> sample=../../14_MELODIC/keys/felt_upright/felt_upright_Fs3.wav pitch_keycenter=54 lokey=52 hikey=57 lovel=1 hivel=127
+<region> sample=../../14_MELODIC/keys/felt_upright/felt_upright_C4.wav pitch_keycenter=60 lokey=58 hikey=63 lovel=1 hivel=127
+<region> sample=../../14_MELODIC/keys/felt_upright/felt_upright_Fs4.wav pitch_keycenter=66 lokey=64 hikey=69 lovel=1 hivel=127
+<region> sample=../../14_MELODIC/keys/felt_upright/felt_upright_C5.wav pitch_keycenter=72 lokey=70 hikey=75 lovel=1 hivel=127
+<region> sample=../../14_MELODIC/keys/felt_upright/felt_upright_Fs5.wav pitch_keycenter=78 lokey=76 hikey=81 lovel=1 hivel=127
+<region> sample=../../14_MELODIC/keys/felt_upright/felt_upright_C6.wav pitch_keycenter=84 lokey=82 hikey=108 lovel=1 hivel=127

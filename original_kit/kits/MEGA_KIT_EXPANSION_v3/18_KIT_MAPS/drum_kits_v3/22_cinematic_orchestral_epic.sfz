@@ -1,0 +1,22 @@
+// MEGA KIT v3 - 22_CINEMATIC_ORCHESTRAL_EPIC 16-Pad Producer Kit
+// Mapped to MIDI notes 36..51 (C2..D#3 standard MPC / FL FPC / Ableton Drum Rack)
+<global>
+ampeg_release=0.80
+amp_veltrack=85
+
+<region> sample=../../20_TONAL_PERC/orchestral_taiko/taiko_C1.wav key=36 lovel=1 hivel=127
+<region> sample=../../20_TONAL_PERC/orchestral_taiko/taiko_D1.wav key=37 lovel=1 hivel=127
+<region> sample=../../02_SNARES/synthwave_gated/snare_synthwave_gated_03.wav key=38 lovel=1 hivel=127
+<region> sample=../../03_CLAPS/disco_layered/clap_disco_layered_01.wav key=39 lovel=1 hivel=127
+<region> sample=../../20_TONAL_PERC/church_bell/church_bell_E3.wav key=40 lovel=1 hivel=127
+<region> sample=../../07_CYMBALS/jazz_sizzle_ride/jazz_ride_03.wav key=41 lovel=1 hivel=127 group=1 off_by=1
+<region> sample=../../15_FX/sub_drops/sub_drop_01.wav key=42 lovel=1 hivel=127 group=1 off_by=1
+<region> sample=../../15_FX/cinema_braaam/braaam_D1.wav key=43 lovel=1 hivel=127
+<region> sample=../../14_MELODIC/brass/tuba_stab/tuba_stab_Gs1.wav key=44 lovel=1 hivel=127
+<region> sample=../../14_MELODIC/brass/french_horn/french_horn_C2.wav key=45 lovel=1 hivel=127
+<region> sample=../../14_MELODIC/brass/trombone/trombone_Gs2.wav key=46 lovel=1 hivel=127
+<region> sample=../../14_MELODIC/winds/oboe/oboe_Fs4.wav key=47 lovel=1 hivel=127
+<region> sample=../../14_MELODIC/winds/bassoon/bassoon_C2.wav key=48 lovel=1 hivel=127
+<region> sample=../../14_MELODIC/winds/duduk/duduk_C3.wav key=49 lovel=1 hivel=127
+<region> sample=../../14_MELODIC/world/erhu/erhu_As3.wav key=50 lovel=1 hivel=127
+<region> sample=../../14_MELODIC/pads/drone_dark_cinema/drone_dark_cinema_C1.wav key=51 lovel=1 hivel=127

@@ -1,0 +1,19 @@
+14_METAL_DJENT_ROCK — Рекомендуемая 16-пэд раскладка (MEGA KIT v3)
+================================================================
+
+ 1. [MIDI 36] Rock Kick          01_KICKS/modern_pop/kick_modern_pop_01.wav
+ 2. [MIDI 37] Postpunk Kick      01_KICKS/postpunk/kick_postpunk_02.wav
+ 3. [MIDI 38] Punch Snare        02_SNARES/modern_pop/snare_modern_pop_03.wav
+ 4. [MIDI 39] Disco Snare        02_SNARES/disco_funk/snare_disco_funk_01.wav
+ 5. [MIDI 40] Ghost Snare        02_SNARES/ghost_notes/snare_ghost_notes_02.wav
+ 6. [MIDI 41] Closed Hat         05_HATS_CLOSED/postpunk/hat_postpunk_03.wav
+ 7. [MIDI 42] Open Hat           06_HATS_OPEN/postpunk/openhat_postpunk_01.wav
+ 8. [MIDI 43] Ride Bell          07_CYMBALS/jazz_ride_bell/ride_bell_02.wav
+ 9. [MIDI 44] Picked Rock Bass   13_BASS/picked_rock_bass/picked_rock_bass_A1.wav
+10. [MIDI 45] 8-Str Djent Chug   14_MELODIC/guitars/metal_chug_8str/metal_chug_8str_Fs1.wav
+11. [MIDI 46] Power Chord C2     14_MELODIC/chords_stabs/rock_power_chord/power_chord_Cs2.wav
+12. [MIDI 47] Acoustic Strum     14_MELODIC/chords_stabs/acoustic_strum_minor/strum_min_D3.wav
+13. [MIDI 48] Shimmer Guitar     14_MELODIC/guitars/shimmer_guitar/shimmer_guitar_E2.wav
+14. [MIDI 49] Pipe Organ         14_MELODIC/keys/pipe_organ/pipe_organ_F2.wav
+15. [MIDI 50] Doublekick Loop    16_LOOPS/drum_loops/metal_doublekick_160bpm.wav
+16. [MIDI 51] Metal Fill         19_FILLS_ROLLS/fill_metal_doublekick_1bar_160bpm.wav

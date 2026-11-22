@@ -1,0 +1,18 @@
+// MEGA KIT v3 - 808_opium_buzz (12 multi-sampled root zones)
+// Full keyboard range A0..C8 (MIDI 21..108), non-overlapping zones, verified paths
+<global>
+ampeg_release=0.35
+amp_veltrack=82
+
+<region> sample=../../12_808_SUB/808_opium_buzz/808_opium_C1.wav pitch_keycenter=24 lokey=21 hikey=24 lovel=1 hivel=127
+<region> sample=../../12_808_SUB/808_opium_buzz/808_opium_Cs1.wav pitch_keycenter=25 lokey=25 hikey=25 lovel=1 hivel=127
+<region> sample=../../12_808_SUB/808_opium_buzz/808_opium_D1.wav pitch_keycenter=26 lokey=26 hikey=26 lovel=1 hivel=127
+<region> sample=../../12_808_SUB/808_opium_buzz/808_opium_Ds1.wav pitch_keycenter=27 lokey=27 hikey=27 lovel=1 hivel=127
+<region> sample=../../12_808_SUB/808_opium_buzz/808_opium_E1.wav pitch_keycenter=28 lokey=28 hikey=28 lovel=1 hivel=127
+<region> sample=../../12_808_SUB/808_opium_buzz/808_opium_F1.wav pitch_keycenter=29 lokey=29 hikey=29 lovel=1 hivel=127
+<region> sample=../../12_808_SUB/808_opium_buzz/808_opium_Fs1.wav pitch_keycenter=30 lokey=30 hikey=30 lovel=1 hivel=127
+<region> sample=../../12_808_SUB/808_opium_buzz/808_opium_G1.wav pitch_keycenter=31 lokey=31 hikey=31 lovel=1 hivel=127
+<region> sample=../../12_808_SUB/808_opium_buzz/808_opium_Gs1.wav pitch_keycenter=32 lokey=32 hikey=32 lovel=1 hivel=127
+<region> sample=../../12_808_SUB/808_opium_buzz/808_opium_A1.wav pitch_keycenter=33 lokey=33 hikey=33 lovel=1 hivel=127
+<region> sample=../../12_808_SUB/808_opium_buzz/808_opium_As1.wav pitch_keycenter=34 lokey=34 hikey=34 lovel=1 hivel=127
+<region> sample=../../12_808_SUB/808_opium_buzz/808_opium_B1.wav pitch_keycenter=35 lokey=35 hikey=108 lovel=1 hivel=127

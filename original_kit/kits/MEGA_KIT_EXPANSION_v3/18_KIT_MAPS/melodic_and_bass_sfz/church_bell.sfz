@@ -1,0 +1,12 @@
+// MEGA KIT v3 - church_bell (6 multi-sampled root zones)
+// Full keyboard range A0..C8 (MIDI 21..108), non-overlapping zones, verified paths
+<global>
+ampeg_release=0.35
+amp_veltrack=82
+
+<region> sample=../../20_TONAL_PERC/church_bell/church_bell_C3.wav pitch_keycenter=48 lokey=21 hikey=50 lovel=1 hivel=127
+<region> sample=../../20_TONAL_PERC/church_bell/church_bell_E3.wav pitch_keycenter=52 lokey=51 hikey=53 lovel=1 hivel=127
+<region> sample=../../20_TONAL_PERC/church_bell/church_bell_G3.wav pitch_keycenter=55 lokey=54 hikey=57 lovel=1 hivel=127
+<region> sample=../../20_TONAL_PERC/church_bell/church_bell_C4.wav pitch_keycenter=60 lokey=58 hikey=62 lovel=1 hivel=127
+<region> sample=../../20_TONAL_PERC/church_bell/church_bell_E4.wav pitch_keycenter=64 lokey=63 hikey=65 lovel=1 hivel=127
+<region> sample=../../20_TONAL_PERC/church_bell/church_bell_G4.wav pitch_keycenter=67 lokey=66 hikey=108 lovel=1 hivel=127

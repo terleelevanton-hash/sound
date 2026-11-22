@@ -1,0 +1,19 @@
+16_CIS_RUSSIAN_FOLK_FUSION — Рекомендуемая 16-пэд раскладка (MEGA KIT v3)
+================================================================
+
+ 1. [MIDI 36] Punch Kick         01_KICKS/postpunk/kick_postpunk_01.wav
+ 2. [MIDI 37] Hardbass Kick      01_KICKS/gabber_hardcore/kick_gabber_02.wav
+ 3. [MIDI 38] Snare              02_SNARES/postpunk/snare_postpunk_03.wav
+ 4. [MIDI 39] Clap               03_CLAPS/disco_layered/clap_disco_layered_01.wav
+ 5. [MIDI 40] Church Bell        20_TONAL_PERC/church_bell/church_bell_E3.wav
+ 6. [MIDI 41] Closed Hat         05_HATS_CLOSED/postpunk/hat_postpunk_03.wav
+ 7. [MIDI 42] Open Hat           06_HATS_OPEN/postpunk/openhat_postpunk_01.wav
+ 8. [MIDI 43] Taiko Drum         20_TONAL_PERC/orchestral_taiko/taiko_D1.wav
+ 9. [MIDI 44] Upright Bass       13_BASS/upright_double_bass/upright_double_bass_D1.wav
+10. [MIDI 45] Hardbass Donk      13_BASS/hardbass_donk/hardbass_donk_C2.wav
+11. [MIDI 46] Balalaika          14_MELODIC/world/balalaika/balalaika_Gs3.wav
+12. [MIDI 47] Bayan Accordion    14_MELODIC/world/bayan/bayan_As2.wav
+13. [MIDI 48] Gusli Zither       14_MELODIC/world/gusli/gusli_C3.wav
+14. [MIDI 49] Duduk              14_MELODIC/winds/duduk/duduk_C3.wav
+15. [MIDI 50] Nylon Guitar       14_MELODIC/guitars/nylon_guitar/nylon_guitar_D3.wav
+16. [MIDI 51] Felt Upright       14_MELODIC/keys/felt_upright/felt_upright_C2.wav

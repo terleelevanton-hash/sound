@@ -1,0 +1,22 @@
+// MEGA KIT v3 - 05_PLUGGNB_DREAMY_RNB 16-Pad Producer Kit
+// Mapped to MIDI notes 36..51 (C2..D#3 standard MPC / FL FPC / Ableton Drum Rack)
+<global>
+ampeg_release=0.80
+amp_veltrack=85
+
+<region> sample=../../01_KICKS/rnb_neosoul/kick_rnb_neosoul_01.wav key=36 lovel=1 hivel=127
+<region> sample=../../01_KICKS/modern_pop/kick_modern_pop_02.wav key=37 lovel=1 hivel=127
+<region> sample=../../02_SNARES/rnb_rim_snare/snare_rnb_rim_snare_03.wav key=38 lovel=1 hivel=127
+<region> sample=../../03_CLAPS/rnb_finger_clap/clap_rnb_finger_clap_01.wav key=39 lovel=1 hivel=127
+<region> sample=../../02_SNARES/ghost_notes/snare_ghost_notes_02.wav key=40 lovel=1 hivel=127
+<region> sample=../../05_HATS_CLOSED/rnb_tight/hat_rnb_tight_03.wav key=41 lovel=1 hivel=127 group=1 off_by=1
+<region> sample=../../06_HATS_OPEN/rnb/openhat_rnb_01.wav key=42 lovel=1 hivel=127 group=1 off_by=1
+<region> sample=../../15_FX/reverse_swells/reverse_chord_swell_F3.wav key=43 lovel=1 hivel=127
+<region> sample=../../12_808_SUB/808_spinz_pro/808_spinz_D1.wav key=44 lovel=1 hivel=127
+<region> sample=../../13_BASS/fretless_bass/fretless_bass_C2.wav key=45 lovel=1 hivel=127
+<region> sample=../../14_MELODIC/synths/pluggnb_lead/pluggnb_lead_F3.wav key=46 lovel=1 hivel=127
+<region> sample=../../14_MELODIC/synths/pluggnb_bell/pluggnb_bell_As3.wav key=47 lovel=1 hivel=127
+<region> sample=../../14_MELODIC/chords_stabs/neosoul_rhodes_chord/rhodes_min9_C3.wav key=48 lovel=1 hivel=127
+<region> sample=../../14_MELODIC/pads/pad_shimmer_stereo/pad_shimmer_stereo_A2.wav key=49 lovel=1 hivel=127
+<region> sample=../../16_LOOPS/drum_loops/pluggnb_144bpm.wav key=50 lovel=1 hivel=127
+<region> sample=../../16_LOOPS/melodic_loops/neosoul_rhodes_loop_86bpm_Dm.wav key=51 lovel=1 hivel=127

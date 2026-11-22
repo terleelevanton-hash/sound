@@ -1,0 +1,19 @@
+13_DNB_NEURO_DUBSTEP — Рекомендуемая 16-пэд раскладка (MEGA KIT v3)
+================================================================
+
+ 1. [MIDI 36] Punch Kick         01_KICKS/modern_pop/kick_modern_pop_01.wav
+ 2. [MIDI 37] Baile Sub Kick     01_KICKS/baile_funk/kick_baile_funk_02.wav
+ 3. [MIDI 38] Pop Snare          02_SNARES/modern_pop/snare_modern_pop_03.wav
+ 4. [MIDI 39] Wide Clap          03_CLAPS/modern_pop/clap_modern_pop_01.wav
+ 5. [MIDI 40] Ghost Snare        02_SNARES/ghost_notes/snare_ghost_notes_02.wav
+ 6. [MIDI 41] Hat Crisp          05_HATS_CLOSED/disco_crisp/hat_disco_crisp_03.wav
+ 7. [MIDI 42] Open Hat           06_HATS_OPEN/disco_sizzle/openhat_disco_sizzle_01.wav
+ 8. [MIDI 43] Ride Bell          07_CYMBALS/jazz_ride_bell/ride_bell_02.wav
+ 9. [MIDI 44] Neuro Reese Bass   13_BASS/neuro_bass/neuro_bass_D1.wav
+10. [MIDI 45] 808 Drill Slide    12_808_SUB/808_drill_slide_long/808_drill_C1_up_C2.wav
+11. [MIDI 46] Rave Hoover        14_MELODIC/synths/rave_hoover/rave_hoover_F2.wav
+12. [MIDI 47] Glass Pad          14_MELODIC/pads/pad_glass_ambient/pad_glass_ambient_Fs3.wav
+13. [MIDI 48] Braaam FX          15_FX/cinema_braaam/braaam_C1.wav
+14. [MIDI 49] Dub Siren          15_FX/dub_sirens/dub_siren_02.wav
+15. [MIDI 50] Halftime Loop      16_LOOPS/drum_loops/dubstep_halftime_140bpm.wav
+16. [MIDI 51] Cyber Riser        15_FX/cyber_risers/cyber_riser_2bar_120bpm.wav

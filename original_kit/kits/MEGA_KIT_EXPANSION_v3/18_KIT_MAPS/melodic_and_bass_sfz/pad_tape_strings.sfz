@@ -1,0 +1,11 @@
+// MEGA KIT v3 - pad_tape_strings (5 multi-sampled root zones)
+// Full keyboard range A0..C8 (MIDI 21..108), non-overlapping zones, verified paths
+<global>
+ampeg_release=0.85
+amp_veltrack=82
+
+<region> sample=../../14_MELODIC/pads/pad_tape_strings/pad_tape_strings_C2.wav pitch_keycenter=36 lokey=21 hikey=40 lovel=1 hivel=127
+<region> sample=../../14_MELODIC/pads/pad_tape_strings/pad_tape_strings_A2.wav pitch_keycenter=45 lokey=41 hikey=49 lovel=1 hivel=127
+<region> sample=../../14_MELODIC/pads/pad_tape_strings/pad_tape_strings_Fs3.wav pitch_keycenter=54 lokey=50 hikey=58 lovel=1 hivel=127
+<region> sample=../../14_MELODIC/pads/pad_tape_strings/pad_tape_strings_Ds4.wav pitch_keycenter=63 lokey=59 hikey=67 lovel=1 hivel=127
+<region> sample=../../14_MELODIC/pads/pad_tape_strings/pad_tape_strings_C5.wav pitch_keycenter=72 lokey=68 hikey=108 lovel=1 hivel=127

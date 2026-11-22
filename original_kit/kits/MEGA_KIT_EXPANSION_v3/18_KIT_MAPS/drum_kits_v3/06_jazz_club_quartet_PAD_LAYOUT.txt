@@ -1,0 +1,19 @@
+06_JAZZ_CLUB_QUARTET — Рекомендуемая 16-пэд раскладка (MEGA KIT v3)
+================================================================
+
+ 1. [MIDI 36] Jazz Kick          01_KICKS/jazz/kick_jazz_01.wav
+ 2. [MIDI 37] Jazz Tom           08_TOMS/jazz_tuned/jazz_tom_G2.wav
+ 3. [MIDI 38] Brush Tap          02_SNARES/jazz_brush_tap/brush_tap_03.wav
+ 4. [MIDI 39] Brush Sweep        02_SNARES/jazz_brush_sweep/brush_sweep_01.wav
+ 5. [MIDI 40] Ghost Snare        02_SNARES/ghost_notes/snare_ghost_notes_02.wav
+ 6. [MIDI 41] Foot Chick Hat     05_HATS_CLOSED/jazz_foot_chick/hat_jazz_foot_chick_03.wav
+ 7. [MIDI 42] Sizzle Ride        07_CYMBALS/jazz_sizzle_ride/jazz_ride_01.wav
+ 8. [MIDI 43] Ride Bell          07_CYMBALS/jazz_ride_bell/ride_bell_02.wav
+ 9. [MIDI 44] Upright Bass C1    13_BASS/upright_double_bass/upright_double_bass_D1.wav
+10. [MIDI 45] Fretless Bass      13_BASS/fretless_bass/fretless_bass_C2.wav
+11. [MIDI 46] Concert Grand      14_MELODIC/keys/concert_grand/concert_grand_Fs2.wav
+12. [MIDI 47] Jazz Guitar        14_MELODIC/guitars/jazz_guitar/jazz_guitar_D3.wav
+13. [MIDI 48] Tenor Sax          14_MELODIC/winds/tenor_sax/tenor_sax_As2.wav
+14. [MIDI 49] Alto Sax           14_MELODIC/winds/alto_sax/alto_sax_Gs3.wav
+15. [MIDI 50] Swing Loop         16_LOOPS/drum_loops/jazz_swing_120bpm.wav
+16. [MIDI 51] Brush Fill         19_FILLS_ROLLS/fill_jazz_brush_turnaround_1bar_120bpm.wav

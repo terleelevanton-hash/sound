@@ -1,0 +1,19 @@
+22_CINEMATIC_ORCHESTRAL_EPIC — Рекомендуемая 16-пэд раскладка (MEGA KIT v3)
+================================================================
+
+ 1. [MIDI 36] Taiko Low          20_TONAL_PERC/orchestral_taiko/taiko_C1.wav
+ 2. [MIDI 37] Taiko High         20_TONAL_PERC/orchestral_taiko/taiko_D1.wav
+ 3. [MIDI 38] Epic Snare         02_SNARES/synthwave_gated/snare_synthwave_gated_03.wav
+ 4. [MIDI 39] Wide Impact Clap   03_CLAPS/disco_layered/clap_disco_layered_01.wav
+ 5. [MIDI 40] Church Bell        20_TONAL_PERC/church_bell/church_bell_E3.wav
+ 6. [MIDI 41] Ride Cymbal        07_CYMBALS/jazz_sizzle_ride/jazz_ride_03.wav
+ 7. [MIDI 42] Sub Drop           15_FX/sub_drops/sub_drop_01.wav
+ 8. [MIDI 43] Braaam Horn        15_FX/cinema_braaam/braaam_D1.wav
+ 9. [MIDI 44] Tuba Low           14_MELODIC/brass/tuba_stab/tuba_stab_Gs1.wav
+10. [MIDI 45] French Horn        14_MELODIC/brass/french_horn/french_horn_C2.wav
+11. [MIDI 46] Trombone           14_MELODIC/brass/trombone/trombone_Gs2.wav
+12. [MIDI 47] Oboe               14_MELODIC/winds/oboe/oboe_Fs4.wav
+13. [MIDI 48] Bassoon            14_MELODIC/winds/bassoon/bassoon_C2.wav
+14. [MIDI 49] Duduk              14_MELODIC/winds/duduk/duduk_C3.wav
+15. [MIDI 50] Erhu Bowed         14_MELODIC/world/erhu/erhu_As3.wav
+16. [MIDI 51] Dark Drone         14_MELODIC/pads/drone_dark_cinema/drone_dark_cinema_C1.wav
