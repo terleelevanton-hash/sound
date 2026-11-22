@@ -1,0 +1,18 @@
+DNB - recommended 16 pads (drag in this order)
+
+ 1. kick1          01_KICKS/dnb/kick_dnb_01.wav
+ 2. kick2          01_KICKS/dnb/kick_dnb_02.wav
+ 3. snare1         02_SNARES/dnb/snare_dnb_01.wav
+ 4. clap1          03_CLAPS/wide/clap_wide_01.wav
+ 5. snap/rim       04_SNAPS_RIMS_STICKS/snap/snap_01.wav
+ 6. hat closed     05_HATS_CLOSED/dnb/hat_dnb_01.wav
+ 7. hat open       06_HATS_OPEN/dnb/openhat_dnb_01.wav
+ 8. perc           09_PERC_ACOUSTIC/tambourine/tambourine_01.wav
+ 9. bass/808 A     13_BASS/synth_bass_square/synth_bass_square_A2.wav
+10. bass/808 B     13_BASS/sub/sub_A1.wav
+11. crash/ride     07_CYMBALS/ride/ride_01.wav
+12. fx             15_FX/transitions/snare_roll_01.wav
+13. melodic 1      14_MELODIC/synths/supersaw/supersaw_C4.wav
+14. melodic 2      14_MELODIC/synths/supersaw/supersaw_A4.wav
+15. vocal          14_MELODIC/vox/vocal_aah/vocal_aah_A4.wav
+16. tom            08_TOMS/acoustic/acoustic_floor_1.wav

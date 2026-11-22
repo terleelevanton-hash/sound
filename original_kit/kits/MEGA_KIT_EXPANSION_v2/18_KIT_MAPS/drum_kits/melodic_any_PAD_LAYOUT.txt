@@ -1,0 +1,18 @@
+MELODIC_ANY - recommended 16 pads (drag in this order)
+
+ 1. kick1          14_MELODIC/keys/piano_soft/piano_soft_A4.wav
+ 2. kick2          14_MELODIC/keys/piano_soft/piano_soft_As4.wav
+ 3. snare1         14_MELODIC/mallets/marimba/marimba_A4.wav
+ 4. clap1          14_MELODIC/mallets/glockenspiel/glockenspiel_A4.wav
+ 5. snap/rim       04_SNAPS_RIMS_STICKS/snap/snap_01.wav
+ 6. hat closed     14_MELODIC/synths/pluck_synth/pluck_synth_A4.wav
+ 7. hat open       
+ 8. perc           14_MELODIC/winds/flute/flute_A4.wav
+ 9. bass/808 A     13_BASS/sub/sub_A1.wav
+10. bass/808 B     12_808_SUB/808_tuned_soft/808_soft_A1.wav
+11. crash/ride     14_MELODIC/strings/strings/strings_A4.wav
+12. fx             15_FX/risers/riser_01.wav
+13. melodic 1      14_MELODIC/keys/music_box/music_box_C4.wav
+14. melodic 2      14_MELODIC/keys/music_box/music_box_A4.wav
+15. vocal          14_MELODIC/vox/vocal_aah/vocal_aah_A4.wav
+16. tom            08_TOMS/acoustic/acoustic_floor_1.wav

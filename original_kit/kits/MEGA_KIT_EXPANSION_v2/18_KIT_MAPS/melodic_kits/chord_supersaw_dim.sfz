@@ -1,0 +1,4 @@
+// chord_supersaw_dim - synthesized melodic instrument, 1 sampled notes
+// zones stretch to neighbouring notes and keep the tuning
+
+<region> sample=../14_MELODIC/chords_stabs/chord_supersaw_dim_B3.wav pitch_keycenter=59 lokey=58 hikey=60 lovel=1 hivel=127

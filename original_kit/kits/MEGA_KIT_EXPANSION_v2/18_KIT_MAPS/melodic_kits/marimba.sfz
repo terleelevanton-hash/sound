@@ -1,0 +1,15 @@
+// marimba - synthesized melodic instrument, 12 sampled notes
+// zones stretch to neighbouring notes and keep the tuning
+
+<region> sample=../14_MELODIC/mallets/marimba/marimba_C4.wav pitch_keycenter=60 lokey=59 hikey=60 lovel=1 hivel=127
+<region> sample=../14_MELODIC/mallets/marimba/marimba_Cs4.wav pitch_keycenter=61 lokey=61 hikey=61 lovel=1 hivel=127
+<region> sample=../14_MELODIC/mallets/marimba/marimba_D4.wav pitch_keycenter=62 lokey=62 hikey=62 lovel=1 hivel=127
+<region> sample=../14_MELODIC/mallets/marimba/marimba_Ds4.wav pitch_keycenter=63 lokey=63 hikey=63 lovel=1 hivel=127
+<region> sample=../14_MELODIC/mallets/marimba/marimba_E4.wav pitch_keycenter=64 lokey=64 hikey=64 lovel=1 hivel=127
+<region> sample=../14_MELODIC/mallets/marimba/marimba_F4.wav pitch_keycenter=65 lokey=65 hikey=65 lovel=1 hivel=127
+<region> sample=../14_MELODIC/mallets/marimba/marimba_Fs4.wav pitch_keycenter=66 lokey=66 hikey=66 lovel=1 hivel=127
+<region> sample=../14_MELODIC/mallets/marimba/marimba_G4.wav pitch_keycenter=67 lokey=67 hikey=67 lovel=1 hivel=127
+<region> sample=../14_MELODIC/mallets/marimba/marimba_Gs4.wav pitch_keycenter=68 lokey=68 hikey=68 lovel=1 hivel=127
+<region> sample=../14_MELODIC/mallets/marimba/marimba_A4.wav pitch_keycenter=69 lokey=69 hikey=69 lovel=1 hivel=127
+<region> sample=../14_MELODIC/mallets/marimba/marimba_As4.wav pitch_keycenter=70 lokey=70 hikey=70 lovel=1 hivel=127
+<region> sample=../14_MELODIC/mallets/marimba/marimba_B4.wav pitch_keycenter=71 lokey=71 hikey=72 lovel=1 hivel=127

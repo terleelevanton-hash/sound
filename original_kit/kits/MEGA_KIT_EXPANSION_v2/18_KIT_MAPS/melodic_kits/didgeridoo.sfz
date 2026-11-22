@@ -1,0 +1,7 @@
+// didgeridoo - synthesized melodic instrument, 4 sampled notes
+// zones stretch to neighbouring notes and keep the tuning
+
+<region> sample=../14_MELODIC/world/didgeridoo/didgeridoo_C2.wav pitch_keycenter=36 lokey=35 hikey=37 lovel=1 hivel=127
+<region> sample=../14_MELODIC/world/didgeridoo/didgeridoo_Ds2.wav pitch_keycenter=39 lokey=38 hikey=40 lovel=1 hivel=127
+<region> sample=../14_MELODIC/world/didgeridoo/didgeridoo_Fs2.wav pitch_keycenter=42 lokey=41 hikey=43 lovel=1 hivel=127
+<region> sample=../14_MELODIC/world/didgeridoo/didgeridoo_A2.wav pitch_keycenter=45 lokey=44 hikey=46 lovel=1 hivel=127

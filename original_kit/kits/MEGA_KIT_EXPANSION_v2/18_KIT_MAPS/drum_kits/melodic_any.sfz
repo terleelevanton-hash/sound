@@ -1,0 +1,18 @@
+// Mega Kit expansion - recommended melodic_any layout
+// pads 1-16 mapped to MIDI notes 36-51 (GM-ish)
+
+<region> sample=../14_MELODIC/keys/piano_soft/piano_soft_A4.wav key=36 lovel=1 hivel=127
+<region> sample=../14_MELODIC/keys/piano_soft/piano_soft_As4.wav key=37 lovel=1 hivel=127
+<region> sample=../14_MELODIC/mallets/marimba/marimba_A4.wav key=38 lovel=1 hivel=127
+<region> sample=../14_MELODIC/mallets/glockenspiel/glockenspiel_A4.wav key=39 lovel=1 hivel=127
+<region> sample=../04_SNAPS_RIMS_STICKS/snap/snap_01.wav key=40 lovel=1 hivel=127
+<region> sample=../14_MELODIC/synths/pluck_synth/pluck_synth_A4.wav key=41 lovel=1 hivel=127
+<region> sample=../14_MELODIC/winds/flute/flute_A4.wav key=43 lovel=1 hivel=127
+<region> sample=../13_BASS/sub/sub_A1.wav key=44 lovel=1 hivel=127
+<region> sample=../12_808_SUB/808_tuned_soft/808_soft_A1.wav key=45 lovel=1 hivel=127
+<region> sample=../14_MELODIC/strings/strings/strings_A4.wav key=46 lovel=1 hivel=127
+<region> sample=../15_FX/risers/riser_01.wav key=47 lovel=1 hivel=127
+<region> sample=../14_MELODIC/keys/music_box/music_box_C4.wav key=48 lovel=1 hivel=127
+<region> sample=../14_MELODIC/keys/music_box/music_box_A4.wav key=49 lovel=1 hivel=127
+<region> sample=../14_MELODIC/vox/vocal_aah/vocal_aah_A4.wav key=50 lovel=1 hivel=127
+<region> sample=../08_TOMS/acoustic/acoustic_floor_1.wav key=51 lovel=1 hivel=127

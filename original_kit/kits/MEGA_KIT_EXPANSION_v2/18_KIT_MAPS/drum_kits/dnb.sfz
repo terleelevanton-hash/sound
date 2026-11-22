@@ -1,0 +1,19 @@
+// Mega Kit expansion - recommended dnb layout
+// pads 1-16 mapped to MIDI notes 36-51 (GM-ish)
+
+<region> sample=../01_KICKS/dnb/kick_dnb_01.wav key=36 lovel=1 hivel=127
+<region> sample=../01_KICKS/dnb/kick_dnb_02.wav key=37 lovel=1 hivel=127
+<region> sample=../02_SNARES/dnb/snare_dnb_01.wav key=38 lovel=1 hivel=127
+<region> sample=../03_CLAPS/wide/clap_wide_01.wav key=39 lovel=1 hivel=127
+<region> sample=../04_SNAPS_RIMS_STICKS/snap/snap_01.wav key=40 lovel=1 hivel=127
+<region> sample=../05_HATS_CLOSED/dnb/hat_dnb_01.wav key=41 lovel=1 hivel=127
+<region> sample=../06_HATS_OPEN/dnb/openhat_dnb_01.wav key=42 lovel=1 hivel=127
+<region> sample=../09_PERC_ACOUSTIC/tambourine/tambourine_01.wav key=43 lovel=1 hivel=127
+<region> sample=../13_BASS/synth_bass_square/synth_bass_square_A2.wav key=44 lovel=1 hivel=127
+<region> sample=../13_BASS/sub/sub_A1.wav key=45 lovel=1 hivel=127
+<region> sample=../07_CYMBALS/ride/ride_01.wav key=46 lovel=1 hivel=127
+<region> sample=../15_FX/transitions/snare_roll_01.wav key=47 lovel=1 hivel=127
+<region> sample=../14_MELODIC/synths/supersaw/supersaw_C4.wav key=48 lovel=1 hivel=127
+<region> sample=../14_MELODIC/synths/supersaw/supersaw_A4.wav key=49 lovel=1 hivel=127
+<region> sample=../14_MELODIC/vox/vocal_aah/vocal_aah_A4.wav key=50 lovel=1 hivel=127
+<region> sample=../08_TOMS/acoustic/acoustic_floor_1.wav key=51 lovel=1 hivel=127

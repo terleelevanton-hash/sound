@@ -1,0 +1,19 @@
+// Mega Kit expansion - recommended ukg_garage layout
+// pads 1-16 mapped to MIDI notes 36-51 (GM-ish)
+
+<region> sample=../01_KICKS/ukg/kick_ukg_01.wav key=36 lovel=1 hivel=127
+<region> sample=../01_KICKS/ukg/kick_ukg_02.wav key=37 lovel=1 hivel=127
+<region> sample=../02_SNARES/ukg/snare_ukg_01.wav key=38 lovel=1 hivel=127
+<region> sample=../03_CLAPS/ukg/clap_ukg_01.wav key=39 lovel=1 hivel=127
+<region> sample=../04_SNAPS_RIMS_STICKS/snap/snap_01.wav key=40 lovel=1 hivel=127
+<region> sample=../05_HATS_CLOSED/ukg/hat_ukg_01.wav key=41 lovel=1 hivel=127
+<region> sample=../06_HATS_OPEN/ukg/openhat_ukg_01.wav key=42 lovel=1 hivel=127
+<region> sample=../10_PERC_ELECTRONIC/blip/blip_01.wav key=43 lovel=1 hivel=127
+<region> sample=../13_BASS/sub/sub_A1.wav key=44 lovel=1 hivel=127
+<region> sample=../13_BASS/wobble/wobble_A2.wav key=45 lovel=1 hivel=127
+<region> sample=../07_CYMBALS/splash/splash_01.wav key=46 lovel=1 hivel=127
+<region> sample=../15_FX/scratches/scratch_01.wav key=47 lovel=1 hivel=127
+<region> sample=../14_MELODIC/keys/organ/organ_C4.wav key=48 lovel=1 hivel=127
+<region> sample=../14_MELODIC/keys/organ/organ_A4.wav key=49 lovel=1 hivel=127
+<region> sample=../14_MELODIC/vox/shout/shout_a_1.wav key=50 lovel=1 hivel=127
+<region> sample=../08_TOMS/acoustic/acoustic_floor_1.wav key=51 lovel=1 hivel=127

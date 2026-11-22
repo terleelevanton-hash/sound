@@ -1,0 +1,7 @@
+// harpsichord - synthesized melodic instrument, 4 sampled notes
+// zones stretch to neighbouring notes and keep the tuning
+
+<region> sample=../14_MELODIC/keys/harpsichord/harpsichord_C4.wav pitch_keycenter=60 lokey=59 hikey=61 lovel=1 hivel=127
+<region> sample=../14_MELODIC/keys/harpsichord/harpsichord_Ds4.wav pitch_keycenter=63 lokey=62 hikey=64 lovel=1 hivel=127
+<region> sample=../14_MELODIC/keys/harpsichord/harpsichord_Fs4.wav pitch_keycenter=66 lokey=65 hikey=67 lovel=1 hivel=127
+<region> sample=../14_MELODIC/keys/harpsichord/harpsichord_A4.wav pitch_keycenter=69 lokey=68 hikey=70 lovel=1 hivel=127

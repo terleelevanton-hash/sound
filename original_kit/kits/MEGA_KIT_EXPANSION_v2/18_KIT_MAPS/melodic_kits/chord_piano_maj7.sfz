@@ -1,0 +1,4 @@
+// chord_piano_maj7 - synthesized melodic instrument, 1 sampled notes
+// zones stretch to neighbouring notes and keep the tuning
+
+<region> sample=../14_MELODIC/chords_stabs/chord_piano_maj7_E3.wav pitch_keycenter=52 lokey=51 hikey=53 lovel=1 hivel=127

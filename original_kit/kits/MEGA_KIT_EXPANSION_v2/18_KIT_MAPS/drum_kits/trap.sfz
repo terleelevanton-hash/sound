@@ -1,0 +1,19 @@
+// Mega Kit expansion - recommended trap layout
+// pads 1-16 mapped to MIDI notes 36-51 (GM-ish)
+
+<region> sample=../01_KICKS/trap/kick_trap_01.wav key=36 lovel=1 hivel=127
+<region> sample=../01_KICKS/trap/kick_trap_02.wav key=37 lovel=1 hivel=127
+<region> sample=../02_SNARES/trap/snare_trap_01.wav key=38 lovel=1 hivel=127
+<region> sample=../03_CLAPS/trap/clap_trap_01.wav key=39 lovel=1 hivel=127
+<region> sample=../04_SNAPS_RIMS_STICKS/snap/snap_01.wav key=40 lovel=1 hivel=127
+<region> sample=../05_HATS_CLOSED/trap/hat_trap_01.wav key=41 lovel=1 hivel=127
+<region> sample=../06_HATS_OPEN/trap/openhat_trap_01.wav key=42 lovel=1 hivel=127
+<region> sample=../10_PERC_ELECTRONIC/blip/blip_01.wav key=43 lovel=1 hivel=127
+<region> sample=../12_808_SUB/808_tuned_hard/808_hard_A1.wav key=44 lovel=1 hivel=127
+<region> sample=../12_808_SUB/808_glide/808_glide_A1_to_E1.wav key=45 lovel=1 hivel=127
+<region> sample=../07_CYMBALS/crash/crash_01.wav key=46 lovel=1 hivel=127
+<region> sample=../15_FX/risers/riser_01.wav key=47 lovel=1 hivel=127
+<region> sample=../14_MELODIC/synths/pluck_synth/pluck_synth_C4.wav key=48 lovel=1 hivel=127
+<region> sample=../14_MELODIC/synths/pluck_synth/pluck_synth_A4.wav key=49 lovel=1 hivel=127
+<region> sample=../14_MELODIC/vox/vocal_chop/vocal_chop_A4.wav key=50 lovel=1 hivel=127
+<region> sample=../08_TOMS/acoustic/acoustic_floor_1.wav key=51 lovel=1 hivel=127

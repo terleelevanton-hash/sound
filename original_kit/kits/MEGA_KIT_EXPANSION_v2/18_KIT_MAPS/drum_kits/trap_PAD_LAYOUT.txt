@@ -1,0 +1,18 @@
+TRAP - recommended 16 pads (drag in this order)
+
+ 1. kick1          01_KICKS/trap/kick_trap_01.wav
+ 2. kick2          01_KICKS/trap/kick_trap_02.wav
+ 3. snare1         02_SNARES/trap/snare_trap_01.wav
+ 4. clap1          03_CLAPS/trap/clap_trap_01.wav
+ 5. snap/rim       04_SNAPS_RIMS_STICKS/snap/snap_01.wav
+ 6. hat closed     05_HATS_CLOSED/trap/hat_trap_01.wav
+ 7. hat open       06_HATS_OPEN/trap/openhat_trap_01.wav
+ 8. perc           10_PERC_ELECTRONIC/blip/blip_01.wav
+ 9. bass/808 A     12_808_SUB/808_tuned_hard/808_hard_A1.wav
+10. bass/808 B     12_808_SUB/808_glide/808_glide_A1_to_E1.wav
+11. crash/ride     07_CYMBALS/crash/crash_01.wav
+12. fx             15_FX/risers/riser_01.wav
+13. melodic 1      14_MELODIC/synths/pluck_synth/pluck_synth_C4.wav
+14. melodic 2      14_MELODIC/synths/pluck_synth/pluck_synth_A4.wav
+15. vocal          14_MELODIC/vox/vocal_chop/vocal_chop_A4.wav
+16. tom            08_TOMS/acoustic/acoustic_floor_1.wav

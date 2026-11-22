@@ -1,0 +1,18 @@
+ORCHESTRAL_CINEMATIC - recommended 16 pads (drag in this order)
+
+ 1. kick1          20_TONAL_PERC/timpani/timpani_A2.wav
+ 2. kick2          20_TONAL_PERC/timpani/timpani_C2.wav
+ 3. snare1         02_SNARES/rock/snare_rock_01.wav
+ 4. clap1          03_CLAPS/wide/clap_wide_01.wav
+ 5. snap/rim       04_SNAPS_RIMS_STICKS/snap/snap_01.wav
+ 6. hat closed     05_HATS_CLOSED/analog/hat_analog_01.wav
+ 7. hat open       06_HATS_OPEN/ridey/openhat_ridey_01.wav
+ 8. perc           09_PERC_ACOUSTIC/anvil/anvil_01.wav
+ 9. bass/808 A     20_TONAL_PERC/gong/gong_A1.wav
+10. bass/808 B     13_BASS/sub/sub_A1.wav
+11. crash/ride     20_TONAL_PERC/cymbal_swell/cymbal_swell_01.wav
+12. fx             20_TONAL_PERC/gong_swell/gong_swell_01.wav
+13. melodic 1      14_MELODIC/strings/strings/strings_C4.wav
+14. melodic 2      14_MELODIC/strings/strings/strings_A4.wav
+15. vocal          14_MELODIC/vox/vocal_aah/vocal_aah_A4.wav
+16. tom            08_TOMS/acoustic/acoustic_floor_1.wav

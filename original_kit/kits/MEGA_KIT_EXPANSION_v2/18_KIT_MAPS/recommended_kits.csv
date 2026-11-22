@@ -1,0 +1,193 @@
+kit;pad;role;file
+trap;1;kick1;01_KICKS/trap/kick_trap_01.wav
+trap;2;kick2;01_KICKS/trap/kick_trap_02.wav
+trap;3;snare1;02_SNARES/trap/snare_trap_01.wav
+trap;4;clap1;03_CLAPS/trap/clap_trap_01.wav
+trap;5;snap/rim;04_SNAPS_RIMS_STICKS/snap/snap_01.wav
+trap;6;hat closed;05_HATS_CLOSED/trap/hat_trap_01.wav
+trap;7;hat open;06_HATS_OPEN/trap/openhat_trap_01.wav
+trap;8;perc;10_PERC_ELECTRONIC/blip/blip_01.wav
+trap;9;bass/808 A;12_808_SUB/808_tuned_hard/808_hard_A1.wav
+trap;10;bass/808 B;12_808_SUB/808_glide/808_glide_A1_to_E1.wav
+trap;11;crash/ride;07_CYMBALS/crash/crash_01.wav
+trap;12;fx;15_FX/risers/riser_01.wav
+trap;13;melodic 1;14_MELODIC/synths/pluck_synth/pluck_synth_C4.wav
+trap;14;melodic 2;14_MELODIC/synths/pluck_synth/pluck_synth_A4.wav
+trap;15;vocal;14_MELODIC/vox/vocal_chop/vocal_chop_A4.wav
+trap;16;tom;08_TOMS/acoustic/acoustic_floor_1.wav
+drill;1;kick1;01_KICKS/drill/kick_drill_01.wav
+drill;2;kick2;01_KICKS/drill/kick_drill_02.wav
+drill;3;snare1;02_SNARES/drill/snare_drill_01.wav
+drill;4;clap1;03_CLAPS/drill/clap_drill_01.wav
+drill;5;snap/rim;04_SNAPS_RIMS_STICKS/snap/snap_01.wav
+drill;6;hat closed;05_HATS_CLOSED/tight/hat_tight_01.wav
+drill;7;hat open;06_HATS_OPEN/dnb/openhat_dnb_01.wav
+drill;8;perc;10_PERC_ELECTRONIC/laser/laser_01.wav
+drill;9;bass/808 A;12_808_SUB/808_tuned_hard/808_hard_A1.wav
+drill;10;bass/808 B;12_808_SUB/808_glide/808_glide_A1_to_E1.wav
+drill;11;crash/ride;07_CYMBALS/crash/crash_01.wav
+drill;12;fx;15_FX/impacts/impact_01.wav
+drill;13;melodic 1;14_MELODIC/synths/saw_lead/saw_lead_C4.wav
+drill;14;melodic 2;14_MELODIC/synths/saw_lead/saw_lead_A4.wav
+drill;15;vocal;14_MELODIC/vox/vocal_aah/vocal_aah_A4.wav
+drill;16;tom;08_TOMS/acoustic/acoustic_floor_1.wav
+phonk;1;kick1;01_KICKS/phonk/kick_phonk_01.wav
+phonk;2;kick2;01_KICKS/phonk/kick_phonk_02.wav
+phonk;3;snare1;02_SNARES/phonk/snare_phonk_01.wav
+phonk;4;clap1;03_CLAPS/phonk/clap_phonk_01.wav
+phonk;5;snap/rim;04_SNAPS_RIMS_STICKS/snap/snap_01.wav
+phonk;6;hat closed;05_HATS_CLOSED/phonk/hat_phonk_01.wav
+phonk;7;hat open;06_HATS_OPEN/phonk/openhat_phonk_01.wav
+phonk;8;perc;09_PERC_ACOUSTIC/cowbell/cowbell_01.wav
+phonk;9;bass/808 A;12_808_SUB/808_tuned_reese/808_reese_A1.wav
+phonk;10;bass/808 B;12_808_SUB/808_oneshots/808_oneshot_01.wav
+phonk;11;crash/ride;07_CYMBALS/china/china_01.wav
+phonk;12;fx;15_FX/sirens/siren_01.wav
+phonk;13;melodic 1;14_MELODIC/mallets/kalimba/kalimba_C4.wav
+phonk;14;melodic 2;14_MELODIC/mallets/kalimba/kalimba_A4.wav
+phonk;15;vocal;14_MELODIC/vox/vocal_chop/vocal_chop_A4.wav
+phonk;16;tom;08_TOMS/acoustic/acoustic_floor_1.wav
+boombap_lofi;1;kick1;01_KICKS/boombap/kick_boombap_01.wav
+boombap_lofi;2;kick2;01_KICKS/boombap/kick_boombap_02.wav
+boombap_lofi;3;snare1;02_SNARES/boombap/snare_boombap_01.wav
+boombap_lofi;4;clap1;03_CLAPS/boombap/clap_boombap_01.wav
+boombap_lofi;5;snap/rim;04_SNAPS_RIMS_STICKS/snap/snap_01.wav
+boombap_lofi;6;hat closed;05_HATS_CLOSED/analog/hat_analog_01.wav
+boombap_lofi;7;hat open;06_HATS_OPEN/analog/openhat_analog_01.wav
+boombap_lofi;8;perc;09_PERC_ACOUSTIC/shaker/shaker_01.wav
+boombap_lofi;9;bass/808 A;13_BASS/bass_guitar/bass_guitar_A2.wav
+boombap_lofi;10;bass/808 B;13_BASS/synth_bass_saw/synth_bass_saw_A2.wav
+boombap_lofi;11;crash/ride;07_CYMBALS/ride/ride_01.wav
+boombap_lofi;12;fx;15_FX/textures/fire_01.wav
+boombap_lofi;13;melodic 1;14_MELODIC/keys/rhodes/rhodes_C4.wav
+boombap_lofi;14;melodic 2;14_MELODIC/keys/rhodes/rhodes_A4.wav
+boombap_lofi;15;vocal;14_MELODIC/strings/pizz/pizz_A4.wav
+boombap_lofi;16;tom;08_TOMS/acoustic/acoustic_floor_1.wav
+house_techno;1;kick1;01_KICKS/house/kick_house_01.wav
+house_techno;2;kick2;01_KICKS/house/kick_house_02.wav
+house_techno;3;snare1;
+house_techno;4;clap1;03_CLAPS/house/clap_house_01.wav
+house_techno;5;snap/rim;04_SNAPS_RIMS_STICKS/snap/snap_01.wav
+house_techno;6;hat closed;05_HATS_CLOSED/house/hat_house_01.wav
+house_techno;7;hat open;06_HATS_OPEN/house/openhat_house_01.wav
+house_techno;8;perc;09_PERC_ACOUSTIC/conga/conga_high_1.wav
+house_techno;9;bass/808 A;13_BASS/synth_bass_saw/synth_bass_saw_A2.wav
+house_techno;10;bass/808 B;13_BASS/sub/sub_A1.wav
+house_techno;11;crash/ride;07_CYMBALS/crash/crash_01.wav
+house_techno;12;fx;15_FX/risers/riser_01.wav
+house_techno;13;melodic 1;14_MELODIC/synths/pluck_synth/pluck_synth_C4.wav
+house_techno;14;melodic 2;14_MELODIC/synths/pluck_synth/pluck_synth_A4.wav
+house_techno;15;vocal;14_MELODIC/pads/pad_warm/pad_warm_A4.wav
+house_techno;16;tom;08_TOMS/acoustic/acoustic_floor_1.wav
+dnb;1;kick1;01_KICKS/dnb/kick_dnb_01.wav
+dnb;2;kick2;01_KICKS/dnb/kick_dnb_02.wav
+dnb;3;snare1;02_SNARES/dnb/snare_dnb_01.wav
+dnb;4;clap1;03_CLAPS/wide/clap_wide_01.wav
+dnb;5;snap/rim;04_SNAPS_RIMS_STICKS/snap/snap_01.wav
+dnb;6;hat closed;05_HATS_CLOSED/dnb/hat_dnb_01.wav
+dnb;7;hat open;06_HATS_OPEN/dnb/openhat_dnb_01.wav
+dnb;8;perc;09_PERC_ACOUSTIC/tambourine/tambourine_01.wav
+dnb;9;bass/808 A;13_BASS/synth_bass_square/synth_bass_square_A2.wav
+dnb;10;bass/808 B;13_BASS/sub/sub_A1.wav
+dnb;11;crash/ride;07_CYMBALS/ride/ride_01.wav
+dnb;12;fx;15_FX/transitions/snare_roll_01.wav
+dnb;13;melodic 1;14_MELODIC/synths/supersaw/supersaw_C4.wav
+dnb;14;melodic 2;14_MELODIC/synths/supersaw/supersaw_A4.wav
+dnb;15;vocal;14_MELODIC/vox/vocal_aah/vocal_aah_A4.wav
+dnb;16;tom;08_TOMS/acoustic/acoustic_floor_1.wav
+rock_acoustic;1;kick1;01_KICKS/rock/kick_rock_01.wav
+rock_acoustic;2;kick2;01_KICKS/rock/kick_rock_02.wav
+rock_acoustic;3;snare1;02_SNARES/rock/snare_rock_01.wav
+rock_acoustic;4;clap1;03_CLAPS/boombap/clap_boombap_01.wav
+rock_acoustic;5;snap/rim;04_SNAPS_RIMS_STICKS/snap/snap_01.wav
+rock_acoustic;6;hat closed;05_HATS_CLOSED/analog/hat_analog_01.wav
+rock_acoustic;7;hat open;06_HATS_OPEN/analog/openhat_analog_01.wav
+rock_acoustic;8;perc;09_PERC_ACOUSTIC/tambourine/tambourine_01.wav
+rock_acoustic;9;bass/808 A;13_BASS/bass_guitar/bass_guitar_A2.wav
+rock_acoustic;10;bass/808 B;13_BASS/bass_guitar/bass_guitar_A2.wav
+rock_acoustic;11;crash/ride;07_CYMBALS/crash/crash_01.wav
+rock_acoustic;12;fx;15_FX/impacts/impact_01.wav
+rock_acoustic;13;melodic 1;14_MELODIC/guitars/guitar_dist/guitar_dist_C4.wav
+rock_acoustic;14;melodic 2;14_MELODIC/guitars/guitar_dist/guitar_dist_A4.wav
+rock_acoustic;15;vocal;14_MELODIC/strings/strings/strings_A4.wav
+rock_acoustic;16;tom;08_TOMS/acoustic/acoustic_floor_1.wav
+amapiano;1;kick1;01_KICKS/amapiano/kick_amapiano_01.wav
+amapiano;2;kick2;01_KICKS/amapiano/kick_amapiano_02.wav
+amapiano;3;snare1;02_SNARES/amapiano/snare_amapiano_01.wav
+amapiano;4;clap1;03_CLAPS/amapiano/clap_amapiano_01.wav
+amapiano;5;snap/rim;04_SNAPS_RIMS_STICKS/snap/snap_01.wav
+amapiano;6;hat closed;05_HATS_CLOSED/amapiano/hat_amapiano_01.wav
+amapiano;7;hat open;06_HATS_OPEN/amapiano/openhat_amapiano_01.wav
+amapiano;8;perc;09_PERC_ACOUSTIC/afro_shaker/afro_shaker_01.wav
+amapiano;9;bass/808 A;13_BASS/log_drum_soft/log_drum_soft_A1.wav
+amapiano;10;bass/808 B;13_BASS/log_drum_hard/log_drum_hard_A1.wav
+amapiano;11;crash/ride;07_CYMBALS/crash/crash_01.wav
+amapiano;12;fx;19_FILLS_ROLLS/fill_clap_roll_1bar_120bpm.wav
+amapiano;13;melodic 1;14_MELODIC/mallets/kalimba/kalimba_C4.wav
+amapiano;14;melodic 2;14_MELODIC/mallets/kalimba/kalimba_A4.wav
+amapiano;15;vocal;14_MELODIC/vox/shout/shout_a_1.wav
+amapiano;16;tom;08_TOMS/acoustic/acoustic_floor_1.wav
+ukg_garage;1;kick1;01_KICKS/ukg/kick_ukg_01.wav
+ukg_garage;2;kick2;01_KICKS/ukg/kick_ukg_02.wav
+ukg_garage;3;snare1;02_SNARES/ukg/snare_ukg_01.wav
+ukg_garage;4;clap1;03_CLAPS/ukg/clap_ukg_01.wav
+ukg_garage;5;snap/rim;04_SNAPS_RIMS_STICKS/snap/snap_01.wav
+ukg_garage;6;hat closed;05_HATS_CLOSED/ukg/hat_ukg_01.wav
+ukg_garage;7;hat open;06_HATS_OPEN/ukg/openhat_ukg_01.wav
+ukg_garage;8;perc;10_PERC_ELECTRONIC/blip/blip_01.wav
+ukg_garage;9;bass/808 A;13_BASS/sub/sub_A1.wav
+ukg_garage;10;bass/808 B;13_BASS/wobble/wobble_A2.wav
+ukg_garage;11;crash/ride;07_CYMBALS/splash/splash_01.wav
+ukg_garage;12;fx;15_FX/scratches/scratch_01.wav
+ukg_garage;13;melodic 1;14_MELODIC/keys/organ/organ_C4.wav
+ukg_garage;14;melodic 2;14_MELODIC/keys/organ/organ_A4.wav
+ukg_garage;15;vocal;14_MELODIC/vox/shout/shout_a_1.wav
+ukg_garage;16;tom;08_TOMS/acoustic/acoustic_floor_1.wav
+dubstep_breakbeat;1;kick1;01_KICKS/dubstep/kick_dubstep_01.wav
+dubstep_breakbeat;2;kick2;01_KICKS/dubstep/kick_dubstep_02.wav
+dubstep_breakbeat;3;snare1;02_SNARES/dubstep/snare_dubstep_01.wav
+dubstep_breakbeat;4;clap1;03_CLAPS/breakbeat/clap_breakbeat_01.wav
+dubstep_breakbeat;5;snap/rim;04_SNAPS_RIMS_STICKS/snap/snap_01.wav
+dubstep_breakbeat;6;hat closed;05_HATS_CLOSED/breakbeat/hat_breakbeat_01.wav
+dubstep_breakbeat;7;hat open;06_HATS_OPEN/dnb/openhat_dnb_01.wav
+dubstep_breakbeat;8;perc;09_PERC_ACOUSTIC/tambourine/tambourine_01.wav
+dubstep_breakbeat;9;bass/808 A;13_BASS/wobble/wobble_A2.wav
+dubstep_breakbeat;10;bass/808 B;13_BASS/sub/sub_A1.wav
+dubstep_breakbeat;11;crash/ride;07_CYMBALS/china/china_01.wav
+dubstep_breakbeat;12;fx;15_FX/impacts/impact_01.wav
+dubstep_breakbeat;13;melodic 1;14_MELODIC/synths/saw_lead/saw_lead_C4.wav
+dubstep_breakbeat;14;melodic 2;14_MELODIC/synths/saw_lead/saw_lead_A4.wav
+dubstep_breakbeat;15;vocal;14_MELODIC/vox/shout/shout_a_1.wav
+dubstep_breakbeat;16;tom;08_TOMS/acoustic/acoustic_floor_1.wav
+orchestral_cinematic;1;kick1;20_TONAL_PERC/timpani/timpani_A2.wav
+orchestral_cinematic;2;kick2;20_TONAL_PERC/timpani/timpani_C2.wav
+orchestral_cinematic;3;snare1;02_SNARES/rock/snare_rock_01.wav
+orchestral_cinematic;4;clap1;03_CLAPS/wide/clap_wide_01.wav
+orchestral_cinematic;5;snap/rim;04_SNAPS_RIMS_STICKS/snap/snap_01.wav
+orchestral_cinematic;6;hat closed;05_HATS_CLOSED/analog/hat_analog_01.wav
+orchestral_cinematic;7;hat open;06_HATS_OPEN/ridey/openhat_ridey_01.wav
+orchestral_cinematic;8;perc;09_PERC_ACOUSTIC/anvil/anvil_01.wav
+orchestral_cinematic;9;bass/808 A;20_TONAL_PERC/gong/gong_A1.wav
+orchestral_cinematic;10;bass/808 B;13_BASS/sub/sub_A1.wav
+orchestral_cinematic;11;crash/ride;20_TONAL_PERC/cymbal_swell/cymbal_swell_01.wav
+orchestral_cinematic;12;fx;20_TONAL_PERC/gong_swell/gong_swell_01.wav
+orchestral_cinematic;13;melodic 1;14_MELODIC/strings/strings/strings_C4.wav
+orchestral_cinematic;14;melodic 2;14_MELODIC/strings/strings/strings_A4.wav
+orchestral_cinematic;15;vocal;14_MELODIC/vox/vocal_aah/vocal_aah_A4.wav
+orchestral_cinematic;16;tom;08_TOMS/acoustic/acoustic_floor_1.wav
+melodic_any;1;kick1;14_MELODIC/keys/piano_soft/piano_soft_A4.wav
+melodic_any;2;kick2;14_MELODIC/keys/piano_soft/piano_soft_As4.wav
+melodic_any;3;snare1;14_MELODIC/mallets/marimba/marimba_A4.wav
+melodic_any;4;clap1;14_MELODIC/mallets/glockenspiel/glockenspiel_A4.wav
+melodic_any;5;snap/rim;04_SNAPS_RIMS_STICKS/snap/snap_01.wav
+melodic_any;6;hat closed;14_MELODIC/synths/pluck_synth/pluck_synth_A4.wav
+melodic_any;7;hat open;
+melodic_any;8;perc;14_MELODIC/winds/flute/flute_A4.wav
+melodic_any;9;bass/808 A;13_BASS/sub/sub_A1.wav
+melodic_any;10;bass/808 B;12_808_SUB/808_tuned_soft/808_soft_A1.wav
+melodic_any;11;crash/ride;14_MELODIC/strings/strings/strings_A4.wav
+melodic_any;12;fx;15_FX/risers/riser_01.wav
+melodic_any;13;melodic 1;14_MELODIC/keys/music_box/music_box_C4.wav
+melodic_any;14;melodic 2;14_MELODIC/keys/music_box/music_box_A4.wav
+melodic_any;15;vocal;14_MELODIC/vox/vocal_aah/vocal_aah_A4.wav
+melodic_any;16;tom;08_TOMS/acoustic/acoustic_floor_1.wav

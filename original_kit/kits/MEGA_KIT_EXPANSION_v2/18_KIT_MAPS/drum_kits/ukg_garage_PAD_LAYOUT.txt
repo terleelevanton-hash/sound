@@ -1,0 +1,18 @@
+UKG_GARAGE - recommended 16 pads (drag in this order)
+
+ 1. kick1          01_KICKS/ukg/kick_ukg_01.wav
+ 2. kick2          01_KICKS/ukg/kick_ukg_02.wav
+ 3. snare1         02_SNARES/ukg/snare_ukg_01.wav
+ 4. clap1          03_CLAPS/ukg/clap_ukg_01.wav
+ 5. snap/rim       04_SNAPS_RIMS_STICKS/snap/snap_01.wav
+ 6. hat closed     05_HATS_CLOSED/ukg/hat_ukg_01.wav
+ 7. hat open       06_HATS_OPEN/ukg/openhat_ukg_01.wav
+ 8. perc           10_PERC_ELECTRONIC/blip/blip_01.wav
+ 9. bass/808 A     13_BASS/sub/sub_A1.wav
+10. bass/808 B     13_BASS/wobble/wobble_A2.wav
+11. crash/ride     07_CYMBALS/splash/splash_01.wav
+12. fx             15_FX/scratches/scratch_01.wav
+13. melodic 1      14_MELODIC/keys/organ/organ_C4.wav
+14. melodic 2      14_MELODIC/keys/organ/organ_A4.wav
+15. vocal          14_MELODIC/vox/shout/shout_a_1.wav
+16. tom            08_TOMS/acoustic/acoustic_floor_1.wav

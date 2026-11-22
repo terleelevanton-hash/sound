@@ -1,0 +1,18 @@
+AMAPIANO - recommended 16 pads (drag in this order)
+
+ 1. kick1          01_KICKS/amapiano/kick_amapiano_01.wav
+ 2. kick2          01_KICKS/amapiano/kick_amapiano_02.wav
+ 3. snare1         02_SNARES/amapiano/snare_amapiano_01.wav
+ 4. clap1          03_CLAPS/amapiano/clap_amapiano_01.wav
+ 5. snap/rim       04_SNAPS_RIMS_STICKS/snap/snap_01.wav
+ 6. hat closed     05_HATS_CLOSED/amapiano/hat_amapiano_01.wav
+ 7. hat open       06_HATS_OPEN/amapiano/openhat_amapiano_01.wav
+ 8. perc           09_PERC_ACOUSTIC/afro_shaker/afro_shaker_01.wav
+ 9. bass/808 A     13_BASS/log_drum_soft/log_drum_soft_A1.wav
+10. bass/808 B     13_BASS/log_drum_hard/log_drum_hard_A1.wav
+11. crash/ride     07_CYMBALS/crash/crash_01.wav
+12. fx             19_FILLS_ROLLS/fill_clap_roll_1bar_120bpm.wav
+13. melodic 1      14_MELODIC/mallets/kalimba/kalimba_C4.wav
+14. melodic 2      14_MELODIC/mallets/kalimba/kalimba_A4.wav
+15. vocal          14_MELODIC/vox/shout/shout_a_1.wav
+16. tom            08_TOMS/acoustic/acoustic_floor_1.wav

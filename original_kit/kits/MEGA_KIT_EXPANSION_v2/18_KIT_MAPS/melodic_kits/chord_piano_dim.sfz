@@ -1,0 +1,4 @@
+// chord_piano_dim - synthesized melodic instrument, 1 sampled notes
+// zones stretch to neighbouring notes and keep the tuning
+
+<region> sample=../14_MELODIC/chords_stabs/chord_piano_dim_Gs3.wav pitch_keycenter=56 lokey=55 hikey=57 lovel=1 hivel=127

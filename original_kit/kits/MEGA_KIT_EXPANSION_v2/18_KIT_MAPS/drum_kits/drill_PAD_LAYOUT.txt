@@ -1,0 +1,18 @@
+DRILL - recommended 16 pads (drag in this order)
+
+ 1. kick1          01_KICKS/drill/kick_drill_01.wav
+ 2. kick2          01_KICKS/drill/kick_drill_02.wav
+ 3. snare1         02_SNARES/drill/snare_drill_01.wav
+ 4. clap1          03_CLAPS/drill/clap_drill_01.wav
+ 5. snap/rim       04_SNAPS_RIMS_STICKS/snap/snap_01.wav
+ 6. hat closed     05_HATS_CLOSED/tight/hat_tight_01.wav
+ 7. hat open       06_HATS_OPEN/dnb/openhat_dnb_01.wav
+ 8. perc           10_PERC_ELECTRONIC/laser/laser_01.wav
+ 9. bass/808 A     12_808_SUB/808_tuned_hard/808_hard_A1.wav
+10. bass/808 B     12_808_SUB/808_glide/808_glide_A1_to_E1.wav
+11. crash/ride     07_CYMBALS/crash/crash_01.wav
+12. fx             15_FX/impacts/impact_01.wav
+13. melodic 1      14_MELODIC/synths/saw_lead/saw_lead_C4.wav
+14. melodic 2      14_MELODIC/synths/saw_lead/saw_lead_A4.wav
+15. vocal          14_MELODIC/vox/vocal_aah/vocal_aah_A4.wav
+16. tom            08_TOMS/acoustic/acoustic_floor_1.wav

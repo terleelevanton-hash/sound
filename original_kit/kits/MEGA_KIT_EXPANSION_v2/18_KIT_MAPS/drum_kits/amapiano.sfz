@@ -1,0 +1,19 @@
+// Mega Kit expansion - recommended amapiano layout
+// pads 1-16 mapped to MIDI notes 36-51 (GM-ish)
+
+<region> sample=../01_KICKS/amapiano/kick_amapiano_01.wav key=36 lovel=1 hivel=127
+<region> sample=../01_KICKS/amapiano/kick_amapiano_02.wav key=37 lovel=1 hivel=127
+<region> sample=../02_SNARES/amapiano/snare_amapiano_01.wav key=38 lovel=1 hivel=127
+<region> sample=../03_CLAPS/amapiano/clap_amapiano_01.wav key=39 lovel=1 hivel=127
+<region> sample=../04_SNAPS_RIMS_STICKS/snap/snap_01.wav key=40 lovel=1 hivel=127
+<region> sample=../05_HATS_CLOSED/amapiano/hat_amapiano_01.wav key=41 lovel=1 hivel=127
+<region> sample=../06_HATS_OPEN/amapiano/openhat_amapiano_01.wav key=42 lovel=1 hivel=127
+<region> sample=../09_PERC_ACOUSTIC/afro_shaker/afro_shaker_01.wav key=43 lovel=1 hivel=127
+<region> sample=../13_BASS/log_drum_soft/log_drum_soft_A1.wav key=44 lovel=1 hivel=127
+<region> sample=../13_BASS/log_drum_hard/log_drum_hard_A1.wav key=45 lovel=1 hivel=127
+<region> sample=../07_CYMBALS/crash/crash_01.wav key=46 lovel=1 hivel=127
+<region> sample=../19_FILLS_ROLLS/fill_clap_roll_1bar_120bpm.wav key=47 lovel=1 hivel=127
+<region> sample=../14_MELODIC/mallets/kalimba/kalimba_C4.wav key=48 lovel=1 hivel=127
+<region> sample=../14_MELODIC/mallets/kalimba/kalimba_A4.wav key=49 lovel=1 hivel=127
+<region> sample=../14_MELODIC/vox/shout/shout_a_1.wav key=50 lovel=1 hivel=127
+<region> sample=../08_TOMS/acoustic/acoustic_floor_1.wav key=51 lovel=1 hivel=127
