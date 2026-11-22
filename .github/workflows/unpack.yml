@@ -1,0 +1,35 @@
+name: Unpack Release Kit
+
+on:
+  push:
+    paths:
+      - ".github/workflows/unpack.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  unpack:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Download and unpack kits.rar
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y unar 7zip
+          curl -fL "https://github.com/terleelevanton-hash/sound/releases/download/sound/kits.rar" -o /tmp/kits.rar
+          mkdir -p original_kit
+          unar -f -o original_kit /tmp/kits.rar || 7zz x -y /tmp/kits.rar -ooriginal_kit || 7z x -y /tmp/kits.rar -ooriginal_kit
+          find original_kit -type f -size +90M | while IFS= read -r f; do
+            split -b 45M -d "$f" "${f}.part_" && rm -f "$f"
+          done
+
+      - name: Commit unpacked kit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add original_kit
+          git commit -m "Unpack kits.rar from release" || echo "Nothing to commit"
+          git push origin HEAD:main
